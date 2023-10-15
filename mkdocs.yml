@@ -1,4 +1,19 @@
 site_name: My Docs
 
+repo_url: https://github.com/opendatasicilia/guida-umap
+
+edit_uri: edit/main/docs/
+
 theme:
   name: material
+  language: it
+  features:
+    - navigation.footer
+    - content.action.edit
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+
+
+plugins:
+  - search
