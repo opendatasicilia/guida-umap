@@ -17,10 +17,19 @@ theme:
     - navigation.indexes
     - toc.follow
     - navigation.top
+    - navigation.sections
+    - navigation.tabs
 
 
 plugins:
   - search
+
+nav:
+  - Home: index.md
+  - Consultare: consultare/index.md
+  - Creare: creare/index.md
+  - Informazioni: informazioni/index.md
+
 
 
 markdown_extensions:
