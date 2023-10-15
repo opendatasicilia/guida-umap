@@ -1,5 +1,7 @@
 site_name: Guida a Umap
 
+copyright: Un progetto della comunità [OpenDataSicilia](https://opendatasicilia.it/)
+
 repo_url: https://github.com/opendatasicilia/guida-umap
 
 edit_uri: edit/main/docs/
