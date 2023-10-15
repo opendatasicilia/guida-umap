@@ -1,6 +1,8 @@
 site_name: Guida a Umap
+site_url: https://opendatasicilia.github.io/guida-umap/
+site_description: Una guida per imparare ad utilizzare Umap
 
-copyright: Un progetto della comunità [OpenDataSicilia](https://opendatasicilia.it/)
+copyright: 'Un progetto della comunità <a href="https://opendatasicilia.it/"><b>OpenDataSicilia</b></a>'
 
 repo_url: https://github.com/opendatasicilia/guida-umap
 
@@ -19,3 +21,35 @@ theme:
 
 plugins:
   - search
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
