@@ -6,7 +6,7 @@ uMap permette una serie estesa di funzioni per la personalizzazione di una mappa
 
 ## I principali strumenti
 
-![](img/umap-creazione.PNG)
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-creazione.PNG)
 
 I principali strumenti per la creazione di una mappa sono di seguito elencati:
 ```
