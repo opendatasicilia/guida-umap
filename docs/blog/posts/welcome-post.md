@@ -1,6 +1,6 @@
 ---
 date: 2023-10-16
-authors: [Ciro Spataro]
+authors: [cirospat]
 categories:
   - General
 ---
