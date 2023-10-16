@@ -11,12 +11,12 @@ hide:
 [**uMap**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive.
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
 
-## Perchè questa guida?
+## Perché questa guida?
 
 * per supportare chi volesse iniziare a creare mappe attraverso uMap,
 * per diffondere la cultura delle mappe interattive,
 * per diffondere la cultura dei dati in formato aperto,
-* perchè ci piace fare guide su come fare qualcosa che possa tornare utile a molte persone.
+* perché ci piace fare guide su come fare qualcosa che possa tornare utile a molte persone.
 
 ## Struttura della guida
 
