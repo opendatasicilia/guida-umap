@@ -23,6 +23,7 @@ theme:
 
 plugins:
   - search
+  - blog
 
 nav:
   - Home: index.md
