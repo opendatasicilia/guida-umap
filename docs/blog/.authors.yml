@@ -1,6 +1,13 @@
 authors:
-    name: Andrea Borruso
+   gbvitrano:
     name: Giovan Battista Vitrano
-    name: Ciro Spataro
-    description: Creator
-    avatar: https://avatars.githubusercontent.com/u/22288786?s=200&v=4
+    description: Autore
+    avatar: https://github.com/gbvitrano.png 
+   aborruso:
+    name: Andrea Borruso
+    description: Autore
+    avatar: https://github.com/aborruso.png
+   pigreco:
+    name: Totò Fiandaca
+    description: Autore
+    avatar: https://github.com/pigreco.png
