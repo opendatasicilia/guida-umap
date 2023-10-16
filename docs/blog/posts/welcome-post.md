@@ -1,6 +1,6 @@
 ---
 date: 2023-10-16
-authors: [uMap-guide, Ciro Spataro]
+authors: [Ciro Spataro]
 categories:
   - General
 ---
