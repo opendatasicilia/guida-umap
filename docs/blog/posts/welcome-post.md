@@ -7,75 +7,27 @@ categories:
 
 # Benvenuti nella sezione blog della guida
 
-__As we're starting to build a team around Material for MkDocs, we've decided to
-sunset and archive our [Gitter] channel on October 13, 2023 in favor of
-[GitHub Discussions].__
+Il blog permette di costruire ricette per migliorare la creazione e consultazione delle mappe.
 
-As part of our efforts to improve the processes for maintaining Material for
-MkDocs and for supporting the community, we have reviewed the use of different
-communication channels. At the moment, both [Gitter] and [GitHub Discussions]
-allow to ask the community for support and to discuss ideas and issues. In the
-past weeks, we have begun to question whether this duplication is in the best
-interest of our project. This post explains the rationale behind our decision.
-
-  [GitHub discussions]: https://github.com/squidfunk/mkdocs-material/discussions
+E' una sezione della guida che permette di ampliare la conoscenza sull'utilizzo di uMap. Fortunatamente uMap è una piattaforma web molto ricca di personalizzazioni, e quindi addentrarsi nelle features è una cosa da farsi dedicando ad ogni post l'attenzione ad un aspetto specifico.
 
 <!-- more -->
 
-## Bla bla bla
-
-In the first years of Material for MkDocs, [Gitter] served as a helpful platform
-for quick community interactions and questions. However, there are some inherent
-constraints that necessitated a shift. Here's a breakdown of the challenges we
-encountered:
-
-1. __Thread utilization__ –
-   Even with the introduction of threads, many Gitter users were reticent to
-   use them, leading to cluttered and disconnected conversations, making it
-    difficult to follow.
-
-2. __Search and discovery__ –
-   Gitter's structure and interface makes it cumbersome to search for and
-   retrieve past messages, resulting in lost insights and repeated conversations.
-
+Per aumentare la possibilità di interazione con i fruitori della guida viene in supporto [__GitHub discussions__](https://github.com/opendatasicilia/guida-umap/discussions). 
 
 
 ## GitHub Discussions
 
-Thankfully, [GitHub Discussions] emerged and continues to evolve to be a much
-better alternative, eliminating many of Gitter's constraints and offering
-enhanced functionality:
+GitHub Discussions è un utile servizio per l'interazione tra creatori e fruitori di contenuti su GitHub. Ecco le features:
 
-1. __Threaded conversations__ –
-   GitHub Discussions supports structured, threaded conversations, ensuring
-   discussions are coherent, contextual, and easy to follow for everyone.
+   1. **Conversazioni con thread**: GitHub Discussions supporta conversazioni strutturate e con thread, garantendo che le discussioni siano coerenti, contestuali e facili da seguire per tutti.
+   2. **Integrazione e collegamento**: la piattaforma facilita il collegamento diretto ad altre discussioni, problemi, codice e molto altro, arricchendo le conversazioni e fornendo un contesto completo.
+   3. **Una piattaforma unificata**: GitHub funge da sportello unico per il supporto, consentendo agli utenti di accedere a varie risorse e canali di supporto in un unico posto, migliorando notevolmente l'esperienza dell'utente.
+   4. **Rilevabilità**: le discussioni su GitHub sono facilmente ricercabili e consentono la categorizzazione, prevenendo la perdita di informazioni preziose e favorendo la condivisione delle conoscenze.
 
-2. __Integration and linking__ –
-   the platform facilitates seamless linking to other discussions, issues, code,
-   and much more, enriching conversations and providing comprehensive context.
-
-3. __A unified platform__ –
-   GitHub acts as a one-stop shop for support, allowing users to access varied
-   resources and support channels in one place, greatly improving user
-   experience.
-
-4. __Discoverability__ –
-   GitHub Discussions are easily searchable and allow for categorization,
-   preventing loss of valuable insights and fostering knowledge sharing.
 
 ## Conclusion
 
-By consolidating communication to [GitHub Discussions], we seek to mitigate the fragmentation of information, ease the user journey, and fortify the bonds within our community.
-
-This concentrated approach enables us to provide consistent, fast and quality support to our users. In the past, the nature of queries raised on Gitter typically necessitated supplementary information or reproductions, prompting us
-to advise users to initiate a discussion subsequently. The shift to a
-centralized discussion forum is designed to simplify and accelerate this
-procedure, ensuring swift and efficient resolutions for our community. It is a
-testament to our ongoing commitment to support the community that helps Material
-for MkDocs flourish.
-
-We are confident that this streamlined approach will spur more
-fruitful discussions, innovative ideas, and collective growth, and we are
-excited to continue our journey with the unwavering support and active
-participation of our community.
+Consolidando la comunicazione con GitHub Discussions, cerchiamo di mitigare la frammentazione delle informazioni, facilitare il percorso dell'utente e rafforzare i legami all'interno della nostra comunità.  GitHub Discussions semplifica e accelera la procedura, garantendo risoluzioni rapide ed efficaci. 
+Siamo fiduciosi che questo approccio semplificato stimolerà di più discussioni fruttuose, idee innovative e crescita collettiva, e noi siamo felici di continuare il nostro viaggio con il supporto attivo della comunità.
 
