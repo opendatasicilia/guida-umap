@@ -26,7 +26,7 @@ GitHub Discussions è un utile servizio per l'interazione tra creatori e fruitor
    4. **Rilevabilità**: le discussioni su GitHub sono facilmente ricercabili e consentono la categorizzazione, prevenendo la perdita di informazioni preziose e favorendo la condivisione delle conoscenze.
 
 
-## Conclusion
+## Conclusioni
 
 Consolidando la comunicazione con GitHub Discussions, cerchiamo di mitigare la frammentazione delle informazioni, facilitare il percorso dell'utente e rafforzare i legami all'interno della nostra comunità.  GitHub Discussions semplifica e accelera la procedura, garantendo risoluzioni rapide ed efficaci. 
 Siamo fiduciosi che questo approccio semplificato stimolerà di più discussioni fruttuose, idee innovative e crescita collettiva, e noi siamo felici di continuare il nostro viaggio con il supporto attivo della comunità.
