@@ -28,6 +28,7 @@ plugins:
 nav:
   - Home: index.md
   - Consultare: consultare/index.md
+    - Zoom in e out: consultare/zoom-in-out.md
   - Creare: creare/index.md
   - Blog: blog/index.md
   - Informazioni: informazioni/index.md
