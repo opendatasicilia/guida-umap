@@ -39,18 +39,31 @@ In questo campo possiamo editare tutto il testo che riteniamo necessario. Oltre 
 !!! Info "editor"
 
     Formattazione testo 
+    
     *un solo asterisco per il corsivo* 
+    
     **due asterischi per il testo marcato**
+    
     # un cancelleto per l'intestazione principale
+    
     ## due cancelletti per le intestazioni di secondo livello
+    
     ### tre cancelletti per intestazione di terzo livello
+    
     Link semplice: [[http://example.com]]
+    
     Link con testo: [[http://example.com|testo del link]]
+    
     Immagini: {{http://image.url.com}}
+    
     Immagine con larghezza personalizzata (width) (in px): {{http://image.url.com|width}}
+    
     Iframe: {{{http://iframe.url.com}}}
+    
     Iframe con altezza (in px) personalizzata: {{{http://iframe.url.com|height}}}
+    
     Iframe con altezza e larghezza personalizzata (in px): {{{http://iframe.url.com|height*width}}}
+    
     --- per una linea orizzontale
 
 
