@@ -31,4 +31,4 @@ Di seguito si può notare come si definiscono le impostazioni dei vari servizi i
 
 La tendenza può essere quella di mostrare all'utente il maggior numero di servizi, proprio per questa utilità che uMap offre nella sua piattaforma web. I servizi sono tutti utili e fruirne rappresenta un vantaggio per tutti.
 
-Questo aspetto riguarda la fase di creazione della mappa e viene ampiamente trattato nella sezione "**Creare**", ma si ritiene utile fare un accenno anche qui nella sezione "**Consultare**".
+Questo aspetto riguarda la fase di creazione della mappa e viene ampiamente trattato nella sezione ["**Creare**"](https://opendatasicilia.github.io/guida-umap/creare/), ma si ritiene utile fare un accenno anche qui nella sezione "**Consultare**".
