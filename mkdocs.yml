@@ -31,7 +31,7 @@ nav:
     - Consultare: consultare/index.md
     - Zoom in e out: consultare/zoom-in-out.md
     - Cerca un luogo: consultare/search-a-place.md
-    - Condividi: condividi/search-a-place.md
+    - Condividi: consultare/condividi.md
   - Creare: 
     - Creare: creare/index.md
   - Blog: blog/index.md
