@@ -1,5 +1,7 @@
 # Cambia lo sfondo della mappa
 
+![](img/esempi-sfondo.PNG)
+
 uMap permette di selezionare diverse tipologie di sfondi per le mappe. Gli sfondi sono basati su varie versioni, più o meno colorate o in bianco e nero, di Openstreetmap.
 
 La posibilità di scegliere i vari formati disponibili è utile al visualizzatore al fine di evidenziare meglio determinate informazioni riportate nella mappa.
