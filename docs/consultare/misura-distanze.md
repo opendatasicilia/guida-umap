@@ -8,4 +8,4 @@ Uno strumento utile per misurare distanze tra vari punti sul territorio anche so
 !!! info "impostarlo in fase di creazione della mappa"
 
     Questo strumento può essere reso visibile a chi consulta la mappa quando il creatore della mappa lo rende visibile all'apertura della mappa.
-    Per info dettagliate su come renderlo disponibile all'apertura della mappa, consultare la sezione **Creare una mappa**.
+    Per info dettagliate su come renderlo disponibile all'apertura della mappa, consultare la sezione **Creare**.
