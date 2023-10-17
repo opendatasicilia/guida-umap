@@ -10,16 +10,18 @@ uMap permette una serie estesa di funzioni per la personalizzazione di una mappa
 
 I principali strumenti per la creazione di una mappa sono di seguito elencati:
 ```
-|-- Nome mappa
-|-- Descrizione mappa
-|-- Opzioni interfaccia utente
-|-- Proprietà definite della forma
-|-- Proprietà preimpostate
-|-- Opzioni di interazione predefinite
-|-- Sfondo personalizzato
-|-- Sovrapposizione personalizzata
-|-- Limite di confine
-|-- Presentazione
-|-- Ringraziamenti
-|--Azioni avanzate
+├─ Nome mappa
+├─ Descrizione mappa
+├─ Opzioni interfaccia utente
+├─ Proprietà definite della forma
+├─ Proprietà preimpostate
+├─ Opzioni di interazione predefinite
+├─ Sfondo personalizzato
+├─ Sovrapposizione personalizzata
+├─ Limite di confine
+├─ Presentazione
+├─ Ringraziamenti
+└─ Azioni avanzate
 ```
+
+
