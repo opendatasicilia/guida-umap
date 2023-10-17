@@ -6,10 +6,10 @@ hide:
 
 # Guida alla consultazione e creazione di una mappa su uMap
 
-![](img/uMap.PNG)
-
 [**uMap**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive.
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
+
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG)
 
 ## Perché questa guida?
 
