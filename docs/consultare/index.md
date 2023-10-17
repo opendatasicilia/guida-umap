@@ -2,7 +2,7 @@
 
 ![docs/img/umap-consultazione.jpg](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-consultazione.jpg)
 
-Questa sezione descrive cosa fa l'utente che visualizza la mappa.
+Questa sezione descrive cosa può fare l'utente che visualizza la mappa.
 
 ## Menù delle scelte 
 
