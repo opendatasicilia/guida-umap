@@ -17,7 +17,7 @@ Le opzioni di condivisione sono diverse, vediamole:
    
 Questi formati disponibili al download sono una vera risorsa prezione di dati che si restano a innumerevoli riusi.
 
-!!! info "importante"
+!!! attention "importante"
 
     Nella fase di realizzazione di una mappa con uMap si può decidere se l'utente visualizzatore può visualizzare l'icona della condivisione della mappa o meno. 
     Posso realizzare una mappa interattiva con uMap da mostrare al mondo intero, ma non voglio diffondere (per vari motivi) i dati che hanno dato vita a quella mappa. 
