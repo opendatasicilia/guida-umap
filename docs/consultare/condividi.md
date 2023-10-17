@@ -15,7 +15,7 @@ Le opzioni di condivisione sono diverse, vediamole:
       - **`gpx`**: un formato classico per i dati geografici, utilizzato dai navigatori satellitari, che può essere utilizzato sugli stessi per riportare i dati su dispositivi mobili. Un formato che può essere utilizzato anche con Google map.
       - **`kml`**: il formato dati geografici utilizzato da Google nella sua piatattaforma Google map.
    
-Questi formati disponibili al download sono una vera risorsa prezione di dati che si restano a innumerevoli riusi.
+Questi formati disponibili al download sono una vera risorsa prezione di dati che si prestano a innumerevoli riusi.
 
 !!! attention "importante"
 
