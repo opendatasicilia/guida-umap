@@ -4,6 +4,8 @@
 
 Questa sezione descrive cosa fa l'utente che visualizza la mappa.
 
+## Menù delle scelte 
+
 L'elenco del menù di sinistra della mappa fornisce una serie di icone (immagine di sopra) che permettono di fare diverse cose, come di seguito specificato.
 
 ```
@@ -18,3 +20,11 @@ L'elenco del menù di sinistra della mappa fornisce una serie di icone (immagine
 └─ Metti questa mappa tra i preferiti
 ```
 
+
+## Opzioni interfaccia utente
+
+Chi crea una mappa con uMap decide, in un pannello di controllo denominato **Opzioni interfaccia utente**, quali strumenti può visualizzare l'utente nel menù di sinistra.
+
+Di seguito si può notare come si definiscono le impostazioni dei vari servizi in fase di creazione della mappa.
+
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/opzioni-interfaccia-utente.PNG)
