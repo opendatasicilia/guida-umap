@@ -5,7 +5,7 @@ La funzione di "searche a place" (cerca un luogo) serve per cercare un sito/loca
 Basta digitare il nome del sito ed esso verrà visualizzato nella mappa.
 
 
-!!! info "importante"
+!!! attention "importante"
 
     Il sito si troverà nella mappa se esso è stato censito dalla comunità mondiale di Openstreetmap sulla mappa. 
     Diversamente se non è stato censito, il sito non sarà individuabile. 
