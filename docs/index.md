@@ -6,6 +6,9 @@ hide:
 
 # Guida alla consultazione e creazione di una mappa su uMap
 
+<iframe width="100%" height="550" src="https://mapire.eu/en/map/sicily/embed/?layers=osm%2C74&bbox=1478051.5536786849%2C4592460.945943761%2C1503829.9414678607%2C4600104.648772278" frameborder="0" allowfullscreen></iframe>
+<br>
+
 [**uMap**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive.
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
 
