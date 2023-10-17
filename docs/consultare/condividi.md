@@ -23,3 +23,7 @@ Questi formati disponibili al download sono una vera risorsa prezione di dati ch
     Posso realizzare una mappa interattiva con uMap da mostrare al mondo intero, ma non voglio diffondere (per vari motivi) i dati che hanno dato vita a quella mappa. 
     Questa scelta di visualizzazione o meno della funzione di condivisione dei dati è prevista.
 
+!!! info "impostarlo in fase di creazione della mappa"
+
+    Questo strumento può essere reso visibile a chi consulta la mappa quando il creatore della mappa lo rende visibile all'apertura della mappa.
+    Per info dettagliate su come renderlo disponibile all'apertura della mappa, consultare la sezione **Creare**.
