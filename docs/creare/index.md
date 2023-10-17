@@ -40,15 +40,15 @@ In questo campo possiamo editare tutto il testo che riteniamo necessario. Oltre 
 
     Formattazione testo 
     
-    *un solo asterisco per il corsivo* 
+    `*` *un solo asterisco per il corsivo* 
     
-    **due asterischi per il testo marcato**
+    `**` **due asterischi per il testo marcato**
     
-    # un cancelleto per l'intestazione principale
+    `#` # un cancelleto per l'intestazione principale
     
-    ## due cancelletti per le intestazioni di secondo livello
+    `##` ## due cancelletti per le intestazioni di secondo livello
     
-    ### tre cancelletti per intestazione di terzo livello
+    `###` ### tre cancelletti per intestazione di terzo livello
     
     Link semplice: [[http://example.com]]
     
