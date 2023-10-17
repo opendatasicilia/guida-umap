@@ -1,6 +1,6 @@
-# Search a place
+# Cerca un luogo
 
-La funzione di "searche a place" serve per cercare un sito/località nella mappa.
+La funzione di "searche a place" (cerca un luogo) serve per cercare un sito/località nella mappa.
 
 Basta digitare il nome del sito ed esso verrà visualizzato nella mappa.
 
