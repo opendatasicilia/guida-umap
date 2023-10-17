@@ -8,3 +8,8 @@ Lo zoom in può essere effettuato fino ad un certo livello, di solito si arriva 
 
 Su questo argomento non c'è molto da dire per quanto rigurda la fase di **consultazione** delle mappe, mentre nella sezione dedicata alla **creazione** viene approfondito in quanto è possibile settare il livello di ingrandimento massimo.
 
+
+!!! info "impostarlo in fase di creazione della mappa"
+
+    Questo strumento può essere reso visibile a chi consulta la mappa quando il creatore della mappa lo rende visibile all'apertura della mappa.
+    Per info dettagliate su come renderlo disponibile all'apertura della mappa, consultare la sezione **Creare**.
