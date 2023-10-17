@@ -17,7 +17,7 @@ L'elenco del menù di sinistra della mappa fornisce una serie di icone (immagine
 ├─ Modifica con lo strumento di Openstreetmap
 ├─ Visualizza i vari layers della mappa
 ├─ Visualizza i vari sfondi della mappa
-└─ Metti questa mappa tra i preferiti
+└─ Metti questa mappa tra quelle speciali
 ```
 
 
@@ -28,3 +28,5 @@ Chi crea una mappa con uMap decide, in un pannello di controllo denominato **Opz
 Di seguito si può notare come si definiscono le impostazioni dei vari servizi in fase di creazione della mappa.
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/opzioni-interfaccia-utente.PNG)
+
+La tendenza può essere quella di mostrare all'utente il maggior numero di servizi, proprio per questa utilità che uMap offre nella sua piattaforma web. I servizi sono tutti utili e fruirne rappresenta un vantaggio per tutti.
