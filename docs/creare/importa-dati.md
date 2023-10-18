@@ -34,7 +34,7 @@ Quando importiamo un dataset dall'esterno possiamo decidere in quale layer inser
 
 ### Sostituisci il contenuto del layer
 
-Se ad esempio nel "layer 1" ci sono dati già inseriti, e volgiamo importare dall'esterno un dataset nello stesso layer, se flagghiamo il campo "Sostituisci il contenuto del layer" cancelleremo tutto quello che c'era prima del caricamento.
+Se ad esempio nel "layer 1" ci sono dati già inseriti, e vogliamo importare dall'esterno un dataset nello stesso layer, se flagghiamo il campo "**Sostituisci il contenuto del layer**" cancelleremo tutto quello che c'era prima del caricamento.
 
 
 ## Aggiungi un URL qui
