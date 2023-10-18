@@ -10,9 +10,10 @@ Cliccando prima sull'icona del punto di interesse, poi possiamo cliccare con il 
 
 Nella descrizione possiamo usare carattere normale, *italico*, **grassetto**, inserire link, immagini e anche video, attraverso la funzioen di "embedding" (incorporare). Questa funzione risulta di grande utilità in quanto in un punto in cui descriviamo qualcosa possiamo approfondire l'interesse sul sito fornendo un video. Di seguito si riporta un esempio di inserimento di video in un punto.
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/mappa-delle-vittime-cadute-per-mafia-a-palermo_20793?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&captionMenus=true"></iframe><p>
+<br></br>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/mappa-delle-vittime-cadute-per-mafia-a-palermo_20793?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&captionMenus=true"></iframe><br></br>
 
-......
+
 
 
 ## Polilinea 
