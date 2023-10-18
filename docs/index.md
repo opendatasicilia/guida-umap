@@ -10,8 +10,7 @@ hide:
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
 
 <iframe width="100%" height="550px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/fontanelle-acqua-potabile-comune-di-palermo-2019_357965?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe>
-<p>
-
+<br>
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG)
 
