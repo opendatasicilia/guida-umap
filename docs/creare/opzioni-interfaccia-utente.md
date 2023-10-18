@@ -25,7 +25,7 @@ Possiamo decidere di far visualizzare la funzione di controllo di ricerca di un 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di ricerca compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
 
 
 ## Visualizza il controllo di schermo intero
@@ -34,7 +34,7 @@ Possiamo decidere di far visualizzare la funzione di visualizzazione della mappa
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di schermo intero compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
 
 
 ## Visualizza il controllo per l'incorporamento
@@ -50,7 +50,7 @@ Questi formati disponibili al download sono una vera risorsa prezione di dati ch
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo per l'incorporamento - condivisione - compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
 
 
 ## Visualizza il controllo di localizzazione
@@ -59,7 +59,7 @@ Possiamo decidere di far visualizzare la funzione di controllo della mia localiz
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di localizzazione compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
 
 
 ## Visualizza il controllo di misurazione
@@ -68,7 +68,7 @@ Possiamo decidere di far visualizzare la funzione di misurazione della distanza 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di misurazione - righello - compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
 
 
 ## Mostra il controllo per aprire l'editor di OpenStreetMap
@@ -84,7 +84,7 @@ Questa funzione è utile per coloro che sono impegnati ad aggiornare i dati nell
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di Openstreetmap compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
 
 
 ## Mostra il controllo dei dati per i layer
@@ -93,6 +93,9 @@ Possiamo decidere di far visualizzare la funzione che permette di visualizzare t
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, ==*espanso*== o è una funzione ==**nascosta**== (cioè l'icona di controllo dei dati per i layer compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). In questo caso abbiamo una possibilità in più di scelta (==espanso==). Espanso significa che nel menù di sinistra all'avvio della mappa è possibile visualizzare un menù con il titolo dei vari layer di cui è composta la mappa.
+
+
+
 
 
