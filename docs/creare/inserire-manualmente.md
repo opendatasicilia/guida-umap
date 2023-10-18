@@ -1,6 +1,6 @@
 # Inserire manualmente punti, polilinee e poligoni
 
-In alto nel menù di destra abbiamo 3 icone: punti, polilinee e poligoni.
+In alto nel menù di destra abbiamo 3 icone: ==punti==, ==polilinee== e ==poligoni==.
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/menu-destra-inserisci-umap.PNG)
 
