@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/menu-destra-umap.PNG)
 
-Dal menù di sinistra possiamo capire subito che abbiamo di fronte due possibilità di lavoro nell'avviare la costruzione della mappa:
+Dal menù di destra sul pannello di controllo di uMap possiamo intuire che abbiamo di fronte due diverse possibilità di lavoro nell'avviare la costruzione di una mappa:
 
   1. **inserire manualmente punti di interesse, polilinee e poligoni**;
   2. **caricare, da fonti esterne, dataset in formato `csv`, `geojson`, `kml`, `gpx`**.
@@ -27,5 +27,9 @@ Chi è in possesso di dataset in questi formati, caricandoli su uMap attraverso 
 
 ### Il formato `csv`
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/49px-Google_Sheets_logo_%282014-2020%29.svg.png) Un accenno particolare va fatto per il noto formato **`csv`**. Un formato molto diffuso soprattutto nei software gestionali. I formati `csv` possono essere costituiti dai file di [**Google spreadsheet**](https://spreadsheets.google.com/), che, se resi leggibili da chiunque nelle impostazioni, possono essere letti da uMap automaticamente attraverso uno specifico URL. Questo aspetto rappresenta un enorme possibilità di interazione con uMap in quanto aggiornando i dati sui fogli Google, automaticamente ed in tempo quasi reale gli aggiornamenti sono resi visibile nelle mappe uMap. Chi ha redatto questa guida utilizza molto spesso uMap in collegamento con i fogli Google realizzando mappe molto utili ed efficaci in termini di restituzione di informazioni contenute in altri servizi web (appunto Google spreadsheet).
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/49px-Google_Sheets_logo_%282014-2020%29.svg.png) Un accenno particolare va fatto per il noto formato **`csv`**. 
+
+Un formato molto diffuso soprattutto nei software gestionali. I formati `csv` possono essere costituiti dai file di [**Google spreadsheet**](https://spreadsheets.google.com/), che, se resi leggibili da chiunque nelle impostazioni, possono essere letti da uMap automaticamente attraverso uno specifico URL. Questo aspetto rappresenta un enorme possibilità di interazione con uMap in quanto aggiornando i dati sui fogli Google, automaticamente ed in tempo quasi reale gli aggiornamenti sono resi visibile nelle mappe uMap. 
+
+Chi ha redatto questa guida utilizza molto spesso uMap in collegamento con i fogli Google realizzando mappe molto utili ed efficaci in termini di restituzione di informazioni contenute in altri servizi web (appunto Google spreadsheet).
 
