@@ -11,6 +11,8 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: it
+  palette:
+    primary: light blue
   features:
     - navigation.footer
     - content.action.edit
