@@ -52,3 +52,9 @@ Nel caso di collegamento con Google spreadsheet è necessario seguire poche ma i
    7. ogni aggiornamento operato nel file di Google spreadsheet verrà riportato automaticamente sulal mappa uMap.
 
 
+## Importa
+
+Una volta effettuate le operazioni sopra descritte possiamo cliccare su **importa** per dare corso al caricamento dati su uMap alternativamente con le due modalità:
+
+   1. carica file da PC;
+   2. aggiungi un URL nell'apposito campo.
