@@ -2,6 +2,8 @@
 
 In alto nel menù di destra abbiamo 3 icone: punti, polilinee e poligoni.
 
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/menu-destra-inserisci-umap.PNG)
+
 Possiamo utilizzare questi 3 strumenti per tracciare tre diversi tipi di informazioni sul territorio. 
 
 ## Punto di interesse
