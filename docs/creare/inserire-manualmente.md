@@ -31,7 +31,7 @@ dove
 
 ### Inserimento di link, immagini e iframe
 
-Per l'inserimento di link immagini e iframe basta seguire le indicazioni che vengono visualizzate nella finestra, cliccando nel simbolo del punto interrogativo (?)
+Per l'inserimento di link immagini e iframe basta seguire le indicazioni che vengono visualizzate nella finestra, cliccando nel simbolo del punto interrogativo (**?**):
 
 `Link semplice: [[http://example.com]]`
 
