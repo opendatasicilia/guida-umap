@@ -68,7 +68,7 @@ Anche nel caso del poligono valgono le possibilità di inserire (abbinate al pol
 
 !!! warning "importante: salva le azioni effettuate"
 
-    Qualsiasi azione effettuiamo (inserimento punti, polilinee, poligono, video, link, immagini e iframe) alla fine della singola azione dobbiamo cliccare il tasto "Salva" in colore azzurro che si trova in alto a destra nel pannello di controllo. Questa azione è molto importante in quanto ci consente di non perdere il lavoro svolto.
+    Qualsiasi azione effettuiamo (inserimento punti, polilinee, poligono, video, link, immagini e iframe) alla fine della singola azione dobbiamo cliccare il tasto <span style="background-color: #3366ff; color: #ffffff;"><strong>Salva</strong></span> in colore azzurro che si trova in alto a destra nel pannello di controllo. Questa azione è molto importante in quanto ci consente di non perdere il lavoro svolto.
 
 
 
