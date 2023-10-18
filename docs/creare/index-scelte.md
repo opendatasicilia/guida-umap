@@ -33,3 +33,6 @@ Un formato molto diffuso soprattutto nei software gestionali. I formati `csv` po
 
 Chi ha redatto questa guida utilizza molto spesso uMap in collegamento con i fogli Google realizzando mappe molto utili ed efficaci in termini di restituzione di informazioni contenute in altri servizi web (appunto Google spreadsheet).
 
+!!! info "approfondimento caricamento dati da fonti esterne, nella sezione ==importa dati=="
+
+    In questa pagina si accenna alla possibilità di caricare dati da fonti esterne per alimentare la mappa. Gli approfondimenti vengono trattati nella sezione **importa dati**.
