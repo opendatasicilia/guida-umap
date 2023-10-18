@@ -1,6 +1,6 @@
 # Creare una mappa
 
-Questa sezione è dedicata alle cose da fare per creare una mappa con uMap.
+Questa sezione è dedicata alle cose da fare per creare e arricchire una mappa con uMap.
 
 uMap permette una serie estesa di funzioni per la personalizzazione di una mappa, conoscere nel dettaglio tutte le funzioni permette a chiunque di padroneggiare lo strumento per generare mappe ad alto effetto visivo e con ricchezza di dettagli.
 
@@ -30,7 +30,7 @@ I principali strumenti per la creazione di una mappa sono di seguito elencati:
 
 Innanzitutto dobbiamo decidere il nome che apparirà nell'URL della mappa. E' consigliabile dare un nome quanto più sintetico possibile.
 
-Se decidiamo di cambiare successivamente il nome della mappa che abbiamo dato inizialemente, non c'è problema perchè anche digitando l'URL del precedente nome della mappa, uMap riporterà all'ultimo URL derivante dall'ultimo nome che abbiamo dato.
+Se decidiamo di cambiare successivamente il nome della mappa che abbiamo dato inizialemente, non c'è problema perchè anche digitando l'URL del precedente nome della mappa, uMap riporterà autimaticamente (redirect) all'ultimo URL derivante dall'ultimo nome che abbiamo dato.
 
 ### Descrizione
 
@@ -67,3 +67,6 @@ In questo campo possiamo editare tutto il testo che riteniamo necessario. Oltre 
     --- per una linea orizzontale
 
 
+Queste due prime impostazioni rappresentano lo start per iniziare a costruire una mappa.
+
+Nelle pagine che seguono vediamo come proseguire con le numerose impostazioni.
