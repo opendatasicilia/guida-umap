@@ -19,7 +19,7 @@ L'inserimento manuale di punti, polilinee e poligoni, quindi, è utilizzato quan
 Questo tipo di uso della mappa è molto diffuso su uMap e soddisfa tante necessità da parte degli utenti.
 
 
-## Caricare, da fonti esterne, dataset in formato `csv`, `geojson`, `kml`, `gpx`
+## Caricare, da fonti esterne, ==dataset== in formato `csv`, `geojson`, `kml`, `gpx`
 
 Il caricamento di dataset in formato aperto rappresenta un servizio di enorme utilità per tanti utenti. 
 
