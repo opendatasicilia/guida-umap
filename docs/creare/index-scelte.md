@@ -4,8 +4,8 @@
 
 Dal menù di sinistra possiamo capire subito che abbiamo di fronte due possibilità di lavoro nell'avviare la costruzione della mappa:
 
-  1. inserire manualmente punti di interesse, polilinee e poligoni;
-  2. caricare, da fonti esterne, dataset in formato `csv`, `geojson`, `kml`, `gpx`.
+  1. **inserire manualmente punti di interesse, polilinee e poligoni**;
+  2. **caricare, da fonti esterne, dataset in formato `csv`, `geojson`, `kml`, `gpx`**.
 
 
 ## Inserire manualmente punti di interesse, polilinee e poligoni
