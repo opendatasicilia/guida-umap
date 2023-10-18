@@ -56,4 +56,38 @@ Impostato su off nasconde il layer dalla presentazione, dal browser dati, dalla 
 
 ## Proprietà della geometria
 
-**colore** 
+**colore**, è possibile scegliere da menù specifico un colore per tutte le geometrie (punti, polilinee e poligoni) rappresentati nel layer.
+
+**forma dell'icona**, nel caso di punti (marcatori) è possibile scegliere tra "predefinito", "cerchio", "goccia", "palla".
+
+**simbolo dell'icona**, da un menù è possibile scegliere tra diverse icone che possono essere riportate sui punti della mappa. E' possibile anche importare un icona attraverso un indirizzo URL da fornire in questo campo.
+
+**opacità dell'icona**, un campo in cui è possibile scegliere il livello di opacità dell'icona attraverso un cursore.
+
+**opacità**, un campo in cui è possibile scegliere il livello di opacità della polilinea o poligono attraverso un cursore.
+
+**tratto**, attraverso una funzione di on/off è possibile attivare/disattivare la visualizzazione del tratto di un poligono. Indica se visualizzare o meno i lati dei poligoni.
+
+**peso**, un cursore permette di definire il livello di peso della polilinea o del poligono.
+
+**riempimento**, Indica se riempire i poligoni con il colore.
+
+**colore di riempimento**, opzionale. Stesso colore se non assegnato.
+
+**opacità riempimento**, attraverso un cursore si può definire l'opacità di riempimento di un poligono.
+
+
+## Proprietà avanzate
+
+**semplifica**, quanto vuoi semplificare la polilinea per ogni zoom (più = maggiori performance a aspetto più semplificato, meno = maggior dettaglio).
+
+**tratteggio**, una lista di numeri separati da virgola che definisce lo schema del tratto e del trattino. Es.: "5, 10, 15".
+
+**Livello di zoom predefinito**, livelli di zoom per zoom automatici.
+
+**dallo zoom** - **allo zoom**, funzioni opzionali. 
+
+**campo etichetta**, il nome della proprietà da utilizzare come etichetta (es.: "nome"). Può anche essere utilizzata una proprietà tra parentesi per usarne più di una o combinarle con contenuto statico (ad esempio: "{nome} in {luogo}").
+
+
+
