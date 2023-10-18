@@ -51,10 +51,26 @@ Per l'inserimento di link immagini e iframe basta seguire le indicazioni che ven
 
 ## Polilinea 
 
-La polilinea  è utilizzata quando c'è la necessità di tracciare sul territorio un percorso preciso.
+La polilinea è utilizzata quando c'è la necessità di tracciare sul territorio un percorso preciso.
+
+Anche nel caso della polilinea valgono le possibilità di inserire (abbinate alla polilinea) video, link, immagini e iframe. In qualsiasi punto della polilinea clicchiamo, si aprirà una finestra con il contenuto che abbiamo inserito nel campo "descrizione".
 
 
 
 ## Poligono
 
-Il Poligono rappresenta un area che vogliano tracciare sul territorio
+Il Poligono rappresenta un area che vogliano tracciare sul territorio.
+
+Anche nel caso del poligono valgono le possibilità di inserire (abbinate al poligono) video, link, immagini e iframe. In qualsiasi punto del poligono clicchiamo, si aprirà una finestra con il contenuto che abbiamo inserito nel campo "descrizione".
+
+
+
+
+!!! warning "importante: salva le azioni effettuate"
+
+    Qualsiasi azione effettuiamo (inserimento punti, polilinee, poligono, video, link, immagini e iframe) alla fine della singola azione dobbiamo cliccare il tasto "Salva" in colore azzurro che si trova in alto a destra nel pannello di controllo. Questa azione è molto importante in quanto ci consente di non perdere il lavoro svolto.
+
+
+
+
+
