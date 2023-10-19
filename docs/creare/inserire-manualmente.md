@@ -35,19 +35,19 @@ dove
 
 Per l'inserimento di link immagini e iframe basta seguire le indicazioni che vengono visualizzate nella finestra, cliccando nel simbolo del punto interrogativo (**?**):
 
-`Link semplice: [[http://example.com]]`
+**Link semplice**: <kbd>[[http://example.com]]</kbd>
 
-`Link con testo: [[http://example.com|testo del link]]`
+**Link con testo**: <kbd>[[http://example.com|testo del link]]</kbd>
 
-`Immagini: {{http://image.url.com}}`
+**Immagini**: <kbd>{{http://image.url.com}}</kbd>
 
-`Immagine con larghezza personalizzata (width) (in px): {{http://image.url.com|width}}`
+**Immagine con larghezza personalizzata (width) (in px)**: <kbd>{{http://image.url.com|width}}</kbd>
 
-`Iframe: {{{http://iframe.url.com}}}`
+**Iframe**: <kbd>{{{http://iframe.url.com}}}</kbd>
 
-`Iframe con altezza (in px) personalizzata: {{{http://iframe.url.com|height}}}`
+**Iframe con altezza (in px) personalizzata**: <kbd>{{{http://iframe.url.com|height}}}</kbd>
 
-`Iframe con altezza e larghezza personalizzata (in px): {{{http://iframe.url.com|height*width}}}`
+**Iframe con altezza e larghezza personalizzata (in px)**: <kbd>{{{http://iframe.url.com|height*width}}}</kbd>
 
 
 
