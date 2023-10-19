@@ -42,7 +42,7 @@ Quando importiamo un dataset dall'esterno possiamo decidere in quale layer inser
 
 ### Sostituisci il contenuto del layer
 
-Se ad esempio nel "layer 1" ci sono dati già inseriti, e vogliamo importare dall'esterno un dataset nello stesso layer, se flagghiamo il campo "**Sostituisci il contenuto del layer**" cancelleremo tutto quello che c'era prima del caricamento.
+Se ad esempio nel "layer 1" ci sono dati già inseriti, e vogliamo importare dall'esterno un dataset nello stesso layer, se selezioniamo il campo "**Sostituisci il contenuto del layer**" cancelleremo tutto quello che c'era prima del caricamento.
 
 
 ## Aggiungi un URL qui
@@ -57,7 +57,7 @@ Nel caso il nostro dataset si trova in un servizio web, come ad esempio un ==**G
     4. verrà generato un indirizzo URL di quel foglio dove sono presenti i dati in formato CSV;
     5. l'URL generato da Google spreadsheet va inserito nella sezione "**Aggiungi un URL qui**";
     6. i dati presenti nel Google spreadsheet verranno visualizzati automaticamente sulla mappa uMap;
-    7. ogni aggiornamento operato nel file di Google spreadsheet verrà riportato automaticamente sulal mappa uMap.
+    7. ogni aggiornamento operato nel file di Google spreadsheet verrà riportato automaticamente sulla visualizzazione della mappa uMap.
 
 
 ## Importa
