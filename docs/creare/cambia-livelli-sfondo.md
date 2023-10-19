@@ -6,6 +6,6 @@ Cliccando sull'icona si aprirà un menù dal quale è possibile scegliere tra va
 
 Selezionato lo sfondo, resterà per l'utente visualizzatore.
 
-Se in futur si vuole cambiare sfondo, il creatore della mappa su questo pannello può effettuare il cambio.
+Se in futuro si vuole cambiare sfondo, il creatore della mappa su questo pannello può effettuare il cambio.
 
 L'importante è che dopo ogni cambiamento effettuato, bisogna cliccare in alto a destra su "**salva**".
