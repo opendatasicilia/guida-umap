@@ -2,7 +2,7 @@
 
 La sezione "ringraziamenti" permette di editare:
 
-**`licenza`**
+**`Licenza`**
 la licenza con la quale rilasciamo i dat contenuti nella mappa. 
 
 **`Mostra i ringraziamenti`**
