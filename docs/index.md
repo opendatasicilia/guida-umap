@@ -4,8 +4,6 @@ hide:
   - toc
 ---
 
-<img src="https://img.shields.io/github/last-commit/opendatasicilia/guida-umap.svg?&label=ultimo_aggiornamento">
-
 # Guida alla consultazione e creazione di una mappa su `uMap`
 
 [**uMap**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive.
