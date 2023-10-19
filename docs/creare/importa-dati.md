@@ -53,8 +53,8 @@ Nel caso il nostro dataset si trova in un servizio web, come ad esempio un ==**G
 
     1. aprire il file Google spreadsheet che si vuole mettere in collegamento con uMap;
     2. cliccare su file e poi su condividi;
-    3. cliccare su esporta dati in formato CSV;
-    4. verrà generato un indirizzo URL di quel foglio dove sono presenti i dati in formato CSV;
+    3. cliccare su esporta dati in formato <kbd>CSV</kbd>;
+    4. verrà generato un indirizzo URL di quel foglio dove sono presenti i dati in formato <kbd>CSV</kbd>;
     5. l'URL generato da Google spreadsheet va inserito nella sezione "**Aggiungi un URL qui**";
     6. i dati presenti nel Google spreadsheet verranno visualizzati automaticamente sulla mappa uMap;
     7. ogni aggiornamento operato nel file di Google spreadsheet verrà riportato automaticamente sulla visualizzazione della mappa uMap.
