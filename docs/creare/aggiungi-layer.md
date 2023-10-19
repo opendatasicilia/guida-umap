@@ -84,7 +84,7 @@ Impostato su **`off`** nasconde il layer dalla presentazione, dal browser dati, 
 
 **`dallo zoom`** - **`allo zoom`**, funzioni opzionali. 
 
-**campo etichetta**, il nome della proprietà da utilizzare come etichetta (es.: "nome"). Può anche essere utilizzata una proprietà tra parentesi per usarne più di una o combinarle con contenuto statico (ad esempio: "{nome} in {luogo}").
+**`campo etichetta`**, il nome della proprietà da utilizzare come etichetta (es.: "nome"). Può anche essere utilizzata una proprietà tra parentesi per usarne più di una o combinarle con contenuto statico (ad esempio: "{nome} in {luogo}").
 
 
 
