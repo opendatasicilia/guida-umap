@@ -37,4 +37,5 @@ Esistono diverse fonti per alimentare e personalizzare lo sfondo delle mappe su 
 
 Si può partire dal caricamento di un immagine JPG o un file in fomato PDF, e attraverso un sistema di georeferenziazione dei punti, per far coincidere quelli dell'immagine con quelli forniti dai servizi di Mapwarper, si riesce a georiferire l'immagine caricata e si ottiene l'indirisso URL che termina con `/{z}/{x}/{y}.png` da usare nel campo "sfondo personalizzato" di uMap.
 
+A questo link [**http://u.osmfr.org/m/228928**](http://u.osmfr.org/m/228928/) è possibile vedere l'effetto finale del procedimento sinteticamente esposto.
 
