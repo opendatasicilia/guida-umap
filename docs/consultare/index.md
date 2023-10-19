@@ -4,7 +4,7 @@ Questa sezione descrive cosa può fare l'utente che visualizza la mappa sul bros
 
 ![docs/img/umap-consultazione.jpg](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-consultazione.jpg)
 
-L'immagina di sopra riporta le icone relative alle funzioni attivabili dall'utente per visualizzare le proprietà della mappa.
+L'immagine di sopra riporta le icone relative alle funzioni attivabili dall'utente per visualizzare le proprietà della mappa.
 
 ## Menù delle scelte 
 
@@ -16,7 +16,7 @@ L'elenco del menù di sinistra della mappa fornisce una serie di icone (immagine
 ├─ Condividi la mappa
 ├─ Mostra la mia posizione sulla mappa
 ├─ Misurazione delle distanze
-├─ Modifica con lo strumento di Openstreetmap
+├─ Modifica con lo strumento di OpenStreetMap
 ├─ Visualizza i vari layers della mappa
 ├─ Visualizza i vari sfondi della mappa
 └─ Metti questa mappa tra quelle speciali
@@ -31,6 +31,6 @@ Di seguito si può notare come si definiscono le impostazioni dei vari servizi i
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/opzioni-interfaccia-utente.PNG)
 
-La tendenza può essere quella di mostrare all'utente il maggior numero di servizi, proprio per questa utilità che uMap offre nella sua piattaforma web. I servizi sono tutti utili e fruirne rappresenta un vantaggio per tutti.
+La tendenza può essere quella di mostrare all'utente il maggior numero di servizi, proprio per questa utilità che uMap offre nella sua piattaforma web. I servizi sono tutti utili e fruirne pienamente rappresenta un vantaggio per tutti.
 
-Questo aspetto riguarda la fase di creazione della mappa e viene ampiamente trattato nella sezione ["**Creare**"](https://opendatasicilia.github.io/guida-umap/creare/), ma si ritiene utile fare un accenno anche qui nella sezione "**Consultare**".
+Questo aspetto specifico riguarda la fase di creazione della mappa e viene ampiamente trattato nella sezione ["**Creare**"](https://opendatasicilia.github.io/guida-umap/creare/), ma si ritiene utile farne un accenno anche qui nella sezione "**Consultare**".
