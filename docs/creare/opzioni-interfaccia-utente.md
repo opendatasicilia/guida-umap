@@ -84,7 +84,7 @@ Questa funzione è utile per coloro che sono impegnati ad aggiornare i dati nell
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di Openstreetmap compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di OpenStreetMap compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
 
 
 ## Mostra il controllo dei dati per i layer
@@ -93,7 +93,7 @@ Possiamo decidere di far visualizzare la funzione che permette di visualizzare t
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, ==*espanso*== o è una funzione ==**nascosta**== (cioè l'icona di controllo dei dati per i layer compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). In questo caso abbiamo una possibilità in più di scelta (==espanso==). Espanso significa che nel menù di sinistra all'avvio della mappa è possibile visualizzare un menù con il titolo dei vari layer di cui è composta la mappa.
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, ==**espanso**== o è una funzione ==**nascosta**== (cioè l'icona di controllo dei dati per i layer compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). In questo caso abbiamo una possibilità in più di scelta (==espanso==). Espanso significa che nel menù di sinistra all'avvio della mappa è possibile visualizzare un menù che riporta il titolo dei vari layer di cui è composta la mappa.
 
 
 ## Visualizza il controllo del livello del tile
@@ -144,7 +144,7 @@ uMap permette di far visualizzare in basso a destra una piccola mappa panoramica
 
 ## Visualizzare la scala
 
-Se abilitata questa funzione, verrà visualizzato in basso a sinistra una scala che riporta un unità di misura in metri e feet (piedi), così da dare all'utente il senso generale e aprticolare delle geometrie presenti nella mappa.
+Se abilitata questa funzione, verrà visualizzato in basso a sinistra una scala che riporta un unità di misura in "metri" e "feet" (piedi), così da dare all'utente il senso generale e aprticolare delle geometrie presenti nella mappa.
 
 !!! tip "decidere come viene compiuta la funzione"
 
