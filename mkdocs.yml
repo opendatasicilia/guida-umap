@@ -2,8 +2,8 @@ site_name: Guida a uMap
 site_url: https://opendatasicilia.github.io/guida-umap/
 site_description: Una guida per imparare ad utilizzare uMap
 
-copyright: 'Un progetto della comunità <a href="https://opendatasicilia.it/"><b>OpenDataSicilia</b></a>' 
-           
+copyright: 'Un progetto della comunità <a href="https://opendatasicilia.it/"><b>OpenDataSicilia</b></a>'
+
 
 repo_url: https://github.com/opendatasicilia/guida-umap
 
@@ -36,7 +36,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Consultare: 
+  - Consultare:
     - Consultare: consultare/index.md
     - Zoom in e out: consultare/zoom-in-out.md
     - Cerca un luogo: consultare/search-a-place.md
@@ -47,7 +47,7 @@ nav:
     - Apri OpenStreetMap: consultare/apri-openstreetmap.md
     - Vedi i layer: consultare/vedi-layer.md
     - Segna come mappa speciale: consultare/mappa-speciale.md
-  - Creare: 
+  - Creare:
     - Creare: creare/index.md
     - Prime scelte da fare: creare/index-scelte.md
     - Inserire manualmente: creare/inserire-manualmente.md
@@ -67,7 +67,7 @@ nav:
     - Centra mappa: creare/centra-mappa.md
     - Cambia permessi / contributori: creare/cambia-permessi-contributori.md
   - Blog: blog/index.md
-  - Informazioni: 
+  - Informazioni:
     - Informazioni: informazioni/index.md
     - Catalogo mappe uMap: informazioni/catalogo-mappe.md
     - Licenza: informazioni/licenza.md
@@ -107,3 +107,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
+extra_javascript:
+  # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  # - javascripts/tables.js
+  # - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - javascripts/varie.js
