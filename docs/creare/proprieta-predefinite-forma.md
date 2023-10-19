@@ -4,7 +4,12 @@ In questa sezione vengono trattati tutti i parametri che è possibile modificare
 
 **`colore`**, è possibile scegliere da menù specifico un colore per tutte le geometrie (punti, polilinee e poligoni) rappresentati nel layer.
 
-**`forma dell'icona`**, nel caso di punti (marcatori) è possibile scegliere tra "predefinito", "cerchio", "goccia", "palla".
+**`forma dell'icona`**, nel caso di punti (marcatori) è possibile scegliere tra:
+
+   - "predefinito",
+   - "cerchio",
+   - "goccia",
+   - "palla".
 
 **`simbolo dell'icona`**, da un menù è possibile scegliere tra diverse icone che possono essere riportate sui punti della mappa. E' possibile anche importare un icona attraverso un indirizzo URL da fornire in questo campo.
 
