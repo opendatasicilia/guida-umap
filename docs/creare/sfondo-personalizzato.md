@@ -21,4 +21,8 @@ Il terzo e quarto campo contengono degli spazi in cui è possibile assegnare un 
 
 Il quinto campo permette di editare testo per inserire i metadati dello sfondo mappa. Nel caso dello sfondo preimpostato "OpenStreetMap", compare il seguente testo: ==map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL==
 
-Infine è disponibile la'attivazione della funzione **formato TMS**.
+## TMS
+
+Infine è disponibile l'attivazione della funzione **formato TMS**.
+
+L'estensione `.tms` rappresenta - tra le altre cose - anche il tipo di file Tableau Map Service File **(.tms)** associato al prodotto Tableau Business Intelligence Software di Tableau Software. Tra le altre caratteristiche, Tableau offre ampie capacità di mappatura dei dati e fornisce una connettività Web Map Service (WMS) integrata. Per la connessione a server cartografici non compatibili con il WMS, viene utilizzato il Tableau Map Service (TMS). Un file `.tms` è un documento `XML` basato su testo che specifica i dettagli di connessione per il TMS.
