@@ -121,7 +121,7 @@ Nel menù di sinistra possiamo decidere di far visualizzare un icona a forma di 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**on**== o ==**off**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
 
 
 ## Abilitare la rotellima del mouse per lo zoom
@@ -130,7 +130,7 @@ Possiamo decidere di abilitare la rotellina del mouse per gestire lo zoom in e z
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**on**== o ==**off**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
 
 
 ## Visualizzare una mappa panoramica
@@ -139,7 +139,7 @@ uMap permette di far visualizzare in basso a destra una piccola mappa panoramica
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**on**== o ==**off**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
 
 
 ## Visualizzare la scala
@@ -148,7 +148,7 @@ Se abilitata questa funzione, verrà visualizzato in basso a sinistra una scala 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**on**== o ==**off**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
 
 
 ## Visualizza un panello al caricamento
@@ -186,7 +186,7 @@ Questa funzione serve per decidere come far visualizzare come vista predefinita.
 
 ## Visualizzare una didascalia
 
-Attivando questa funzione (**on**) viene visualizzata un piccolo footer con il titolo della mappa.
+Attivando questa funzione (**`on`**) viene visualizzata un piccolo footer con il titolo della mappa.
 
 
 ## Visualizzare le etichette dei menù
