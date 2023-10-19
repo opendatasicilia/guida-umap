@@ -19,7 +19,9 @@ Il terzo e quarto campo contengono degli spazi in cui è possibile assegnare un 
 
 ## Un ultimo campo per i metadati dello sfondo 
 
-Il quinto campo permette di editare testo per inserire i metadati dello sfondo mappa. Nel caso dello sfondo preimpostato "OpenStreetMap", compare il seguente testo: ==map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL==
+Il quinto campo permette di editare testo per inserire i metadati dello sfondo mappa. Nel caso dello sfondo preimpostato "OpenStreetMap", compare il seguente testo: 
+
+==map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL==
 
 ## TMS
 
