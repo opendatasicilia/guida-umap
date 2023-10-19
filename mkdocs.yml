@@ -25,6 +25,7 @@ theme:
     - navigation.tabs
   font:
     text: Montserrat
+    code: Fira Code
   custom_dir: overrides
 
 
