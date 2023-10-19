@@ -1,6 +1,14 @@
 # Importa dati
 
-uMap permette l'importazione di dati da fonti esterne in più formati:  **`csv`**, **`geojson`**, **`kml`**, **`gpx`**, **`osm`**, **`georss`**, **`umap`**. 
+uMap permette l'importazione di dati da fonti esterne in più formati:  
+
+   - **`csv`**,
+   - **`geojson`**,
+   - **`kml`**,
+   - **`gpx`**,
+   - **`osm`**,
+   - **`georss`**,
+   - **`umap`**. 
 
 Questa funzione permete di realizzare mappe in breve tempo utilizzando formati già disponibili all'utente.
 
