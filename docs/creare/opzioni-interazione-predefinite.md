@@ -37,11 +37,17 @@
     --- per una linea orizzontale
 
 
-**`Mostra etichetta`**, è possibile stabilire di mostrare, o meno, le etichette dei punti/polilinee/poligoni al clic del mouse. Le scelte operabili su questo comando sono: **sempre**, **mai**, **in sovripmressione**. Se si sceglie ==sempre== e i punti o le polilinee o i poligono sono numerosi nella mappa, si può generare un eccesso di elementi sulla mappa che possono disturbare l'utente. La scelta ==in sovrimpressione== può essere quella migliore, in questo caso solo passando il mouse sul punto/polilinea/poligono, apparirà l'etichetta con il titolo dato al punto/polilinea/poligono.
+**`Mostra etichetta`**, è possibile stabilire di mostrare, o meno, le etichette dei punti/polilinee/poligoni al clic del mouse. Le scelte operabili su questo comando sono: 
 
-**`Direzione dell'etichetta`**, questa funzione permette di posizionare l'etichetta **a destra** o **a sinistra**, oppure **in alto**, o **in basso** rispetto al punto/polilinea/poligono. E' buona prassi stabilire lo stesso verso di direzione per tutti gli elementi presenti nella mappa.
+   - **sempre**,
+   - **mai**,
+   - **in sovripmressione**.
 
-**`Etichette cliccabili`**, si può stabilire di fare diventare le etichette cliccabili con il mouse oppure no.
+Se si sceglie ==sempre== e i punti o le polilinee o i poligono sono numerosi nella mappa, si può generare un eccesso di elementi sulla mappa che possono disturbare l'utente. La scelta ==in sovrimpressione== può essere quella migliore, in questo caso solo passando il mouse sul punto/polilinea/poligono, apparirà l'etichetta con il titolo dato al punto/polilinea/poligono.
+
+**`Direzione dell'etichetta`**, questa funzione permette di posizionare l'etichetta **a destra**, **a sinistra**, **in alto**, o **in basso** rispetto al punto/polilinea/poligono. E' buona prassi stabilire lo stesso verso di direzione per tutti gli elementi presenti nella mappa.
+
+**`Etichette cliccabili`**, si può stabilire di fare diventare le etichette cliccabili con il mouse, oppure no.
 
 **`Apri link in…`**, se nel campo descrizione del punto/polilinea/poligono sono presenti dei link, con questo comando si può decidere se aprire il link in: 
 
