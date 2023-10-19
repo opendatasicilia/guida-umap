@@ -23,6 +23,8 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.tabs
+  font:
+    text: Montserrat
   custom_dir: overrides
 
 
