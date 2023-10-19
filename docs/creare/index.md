@@ -83,7 +83,7 @@ Nelle pagine che seguono vediamo come proseguire con le numerose impostazioni.
 
 Salva, salva, salva.
 
-![](/docs/img/salva.PNG)
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/salva.PNG)
 
 !!! warning "salvare sempre dopo aver compiuto azioni nel pannello di controllo"
 
