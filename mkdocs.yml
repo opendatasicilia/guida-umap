@@ -19,6 +19,7 @@ theme:
   features:
     - navigation.footer
     - content.action.edit
+    - content.action.view
     - navigation.indexes
     - toc.follow
     - navigation.top
