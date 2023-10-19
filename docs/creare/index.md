@@ -4,7 +4,6 @@ Questa sezione è dedicata alle cose da fare per creare e arricchire una mappa c
 
 uMap permette una serie estesa di funzioni per la personalizzazione di una mappa, conoscere nel dettaglio tutte le funzioni permette a chiunque di padroneggiare lo strumento per generare mappe ad alto effetto visivo e con ricchezza di dettagli.
 
-
 ## Accedere a uMap con gli account di altri servizi web
 
 Per accedere a uMap per creare una mappa è necessario utilizzare uno dei seguenti account: GitHub, Twitter, Openstreetmap e Bitbucket.
@@ -12,7 +11,6 @@ Per accedere a uMap per creare una mappa è necessario utilizzare uno dei seguen
 !!! tip "accedere sempre con lo stesso account"
 
     Quando si effettuano gli accessi a uMap, è ==utile e conveniente== utilizzare sempre lo stesso account, GitHub o Twitter o Openstreetmap o Bitbucket. Questo perchè se utilizziamo account diversi e creiamo mappe, quando accediamo con un account non avremo nel pannello di controllo generale tutte le mappe realizzate con accesso eseguito attraverso gli altri account.
-
 
 ## I principali strumenti
 
@@ -80,7 +78,6 @@ In questo campo possiamo editare tutto il testo che riteniamo necessario. Oltre 
 Queste due prime impostazioni rappresentano lo start per iniziare a costruire una mappa.
 
 Nelle pagine che seguono vediamo come proseguire con le numerose impostazioni.
-
 
 ## Salva
 
