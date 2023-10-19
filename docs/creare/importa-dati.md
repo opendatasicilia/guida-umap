@@ -30,10 +30,10 @@ Proprietà importate:name, desc.
 Proprietà importate:name, description.
 
 ### CSV
-Valori separati da virgola, tabulatore o punto e virgola. Il sistema di riferimento spaziale implementato è WGS84. Vengono importati solo punti. La funzione di importazione va a cercare nell'intestazione le colonne «lat» e «lon» indifferentemente se scritte in maiuscolo o minuscolo. Tutte le altre colonne sono importate come proprietà.
+Valori separati da virgola, tabulatore o punto e virgola. Il sistema di riferimento spaziale implementato è <kbd>WGS84</kbd>. Vengono importati solo punti. La funzione di importazione va a cercare nell'intestazione le colonne <kbd>lat</kbd> e <kbd>lon</kbd> indifferentemente se scritte in maiuscolo o minuscolo. Tutte le altre colonne sono importate come "proprietà".
 
 ### uMap
-Importa tutti i dati di umap compresi layer e le impostazioni.
+Importa tutti i dati di uMap compresi layer e le impostazioni.
 
 
 ## Seleziona su quale livello fare l'importazione
@@ -53,8 +53,8 @@ Nel caso il nostro dataset si trova in un servizio web, come ad esempio un ==**G
 
     1. aprire il file Google spreadsheet che si vuole mettere in collegamento con uMap;
     2. cliccare su file e poi su condividi;
-    3. cliccare su esporta dati in formato <kbd>CSV</kbd>;
-    4. verrà generato un indirizzo URL di quel foglio dove sono presenti i dati in formato <kbd>CSV</kbd>;
+    3. cliccare su esporta dati in formato <kbd>CSV</kbd> ;
+    4. verrà generato un indirizzo URL di quel foglio dove sono presenti i dati in formato <kbd>CSV</kbd> ;
     5. l'URL generato da Google spreadsheet va inserito nella sezione "**Aggiungi un URL qui**";
     6. i dati presenti nel Google spreadsheet verranno visualizzati automaticamente sulla mappa uMap;
     7. ogni aggiornamento operato nel file di Google spreadsheet verrà riportato automaticamente sulla visualizzazione della mappa uMap.
