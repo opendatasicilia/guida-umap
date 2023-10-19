@@ -7,6 +7,10 @@
 [**Formatting**](https://squidfunk.github.io/mkdocs-material/reference/formatting/)
 
 
-++"g"++
+[**Adding keyboard keys**](https://squidfunk.github.io/mkdocs-material/reference/formatting/?h=key#adding-keyboard-keys)
 
-++g++
+↓
+
+++"g"++  ++g++  ++"a"++  ++a++ 
+
+
