@@ -6,7 +6,7 @@ Lo zoom in può essere effettuato fino ad un certo livello, di solito si arriva 
 
 ==`https://umap.openstreetmap.fr/it/map/parcheggi-pubblici-e-privati-a-palermo_123125#16/38.1487/13.3547`==
 
-Su questo argomento non c'è molto da dire per quanto rigurda la fase di **consultazione** delle mappe, mentre nella sezione dedicata alla **creazione** viene approfondito in quanto è possibile settare il livello di ingrandimento massimo.
+Su questo argomento non c'è molto da dire per quanto rigurda la fase di **consultazione** delle mappe, mentre nella sezione dedicata alla **creazione** viene approfondito in quanto è possibile settare il livello di ingrandimento massimo e minimo.
 
 
 !!! info "impostarlo in fase di creazione della mappa"
