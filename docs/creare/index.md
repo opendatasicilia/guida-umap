@@ -81,7 +81,7 @@ Nelle pagine che seguono vediamo come proseguire con le numerose impostazioni.
 
 ## Salva
 
-Salva, salva salva.
+Salva, salva, salva.
 
 ![](/docs/img/salva.PNG)
 
