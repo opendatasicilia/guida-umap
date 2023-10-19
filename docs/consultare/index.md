@@ -1,8 +1,10 @@
 # Consultare una mappa
 
+Questa sezione descrive cosa può fare l'utente che visualizza la mappa sul broser di navigazione.
+
 ![docs/img/umap-consultazione.jpg](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-consultazione.jpg)
 
-Questa sezione descrive cosa può fare l'utente che visualizza la mappa.
+L'immagina di sopra riporta le icone relative alle funzioni attivabili dall'utente per visualizzare le proprietà della mappa.
 
 ## Menù delle scelte 
 
