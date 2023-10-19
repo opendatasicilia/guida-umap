@@ -12,6 +12,8 @@ theme:
   name: material
   language: it
   favicon: img/favicon.PNG
+  icon:
+    logo: img/favicon.PNG
   palette:
     primary: light blue
   features:
