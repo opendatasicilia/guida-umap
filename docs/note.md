@@ -13,15 +13,4 @@
 
 ++"g"++  ++g++  ++"a"++  ++a++ 
 
-```
-├─ ++Ingrandisci e diminuisci mappa++
-├─ ++Cerca un luogo++
-├─ ++Condividi la mappa++
-├─ ++Mostra la mia posizione sulla mappa++
-├─ ++Misurazione delle distanze++
-├─ ++Modifica con lo strumento di OpenStreetMap++
-├─ ++Visualizza i vari layers della mappa++
-├─ ++Visualizza i vari sfondi della mappa++
-└─ ++Metti questa mappa tra quelle speciali++
-```
-
+<kbd>testo</kbd>
