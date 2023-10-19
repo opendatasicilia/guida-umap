@@ -10,7 +10,8 @@ Per accedere a uMap per creare una mappa è necessario utilizzare uno dei seguen
 
 !!! tip "accedere sempre con lo stesso account"
 
-    Quando si effettuano gli accessi a uMap, è ==utile e conveniente== utilizzare sempre lo stesso account, GitHub o Twitter o Openstreetmap o Bitbucket. Questo perchè se utilizziamo account diversi e creiamo mappe, quando accediamo con un account non avremo nel pannello di controllo generale tutte le mappe realizzate con accesso eseguito attraverso gli altri account.
+    Quando si effettuano gli accessi a uMap, è ==utile e conveniente== utilizzare sempre lo stesso account, **GitHub** o **Twitter** o **Openstreetmap** o **Bitbucket**. Questo perchè se utilizziamo account diversi e creiamo mappe, quando accediamo con un account non avremo nel pannello di controllo generale tutte le mappe realizzate con accesso eseguito attraverso gli altri account.
+    ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-dashboard.PNG)
 
 ## I principali strumenti
 
