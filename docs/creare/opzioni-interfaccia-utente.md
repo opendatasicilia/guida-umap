@@ -2,9 +2,9 @@
 
 In alto nel menù di destra abbiamo il menù ==**Opzioni interfaccia utente**==.
 
-In questa sezione del pannello di controllo vengono definiti alcuni dei parametri che servono per personalizzare la visualizzazione della mappa nella fase di consultazione.
+In questa sezione del pannello di controllo vengono definiti diversi parametri che servono per personalizzare la visualizzazione della mappa nella fase di consultazione.
 
-Andiamo con ordine e analizziamo ogni parametro previsto dal menù.
+Andiamo con ordine e analizziamo ogni parametro previsto dal ricco menù.
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/opzioni-interfaccia-utente.png)
 
