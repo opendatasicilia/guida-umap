@@ -10,7 +10,7 @@ Stabilire il valore di zoom massimo della sovrapposzione personalizzata
 Stabilire il valore di zoom minimo della sovrapposzione personalizzata
 
 **`attribuzione`**:
-Inserire ad esempio il testo: Tiles © [[URL provider sfondo]] 
+Inserire ad esempio il testo: ==**Tiles © [[URL provider sfondo]]**== 
 
 **`opacità`**:
 Attribuire un valore nella scala prevista del pannello controllo "Sovrapposizione personalizzata"
