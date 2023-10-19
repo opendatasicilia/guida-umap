@@ -49,7 +49,7 @@ Se ad esempio nel "layer 1" ci sono dati già inseriti, e vogliamo importare dal
 
 Nel caso il nostro dataset si trova in un servizio web, come ad esempio un ==**Google spreadsheet**==, possiamo importare l'URL fornito da Google su questo campo, in questo modo si creerà un collegamento tra due servizi web: Google spreadsheet e uMap. 
 
-!!! Info "Nel caso di collegamento con **Google spreadsheet** è necessario seguire poche ma importanti procedure nelle impostazioni di Google spreadsheet"
+!!! Info "Nel caso di collegamento con ==Google spreadsheet== è necessario seguire poche ma importanti procedure nelle impostazioni di Google spreadsheet"
 
     1. aprire il file Google spreadsheet che si vuole mettere in collegamento con uMap;
     2. cliccare su file e poi su condividi;
