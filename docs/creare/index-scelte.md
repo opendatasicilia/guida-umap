@@ -35,4 +35,4 @@ Chi ha redatto questa guida utilizza molto spesso uMap in collegamento con i fog
 
 !!! info "approfondimento caricamento dati da fonti esterne, nella sezione ==importa dati=="
 
-    In questa pagina si accenna alla possibilità di caricare dati da fonti esterne per alimentare la mappa. Gli approfondimenti vengono trattati nella sezione **importa dati**.
+    In questa pagina si accenna alla possibilità di caricare dati da fonti esterne per alimentare la mappa. Gli approfondimenti vengono trattati nella sezione [**importa dati**](https://opendatasicilia.github.io/guida-umap/creare/importa-dati/).
