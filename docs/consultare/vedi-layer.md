@@ -1,6 +1,6 @@
 # Vedi i layer dei dati
 
-Questa funzione ha l'obiettivo di mostrare all'utente tutti gli strati dei dati creati nella mappa.
+Questa funzione ha l'obiettivo di mostrare all'utente tutti gli strati (layer) dei dati creati nella mappa.
 
 Spesso in una mappa su uMap vengono creati più strati di informazioni e isolare uno o più strati può aiutare a focalizzare meglio l'attenzione su alcune informazioni geografiche.
 
