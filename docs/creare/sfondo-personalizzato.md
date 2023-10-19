@@ -26,3 +26,9 @@ Il quinto campo permette di editare testo per inserire i metadati dello sfondo m
 Infine è disponibile l'attivazione della funzione **formato TMS**.
 
 L'estensione `.tms` rappresenta - tra le altre cose - anche il tipo di file Tableau Map Service File **(.tms)** associato al prodotto Tableau Business Intelligence Software di Tableau Software. Tra le altre caratteristiche, Tableau offre ampie capacità di mappatura dei dati e fornisce una connettività Web Map Service (WMS) integrata. Per la connessione a server cartografici non compatibili con il WMS, viene utilizzato il Tableau Map Service (TMS). Un file `.tms` è un documento `XML` basato su testo che specifica i dettagli di connessione per il TMS.
+
+## Una fonte di numerosi sfondi per uMap
+
+Esistono diverse fonti per alimentare e personalizzare lo sfondo delle mappe su uMap. Una fonte molto interessante per varietà di sfondi é: [**https://leaflet-extras.github.io/leaflet-providers/preview**](https://leaflet-extras.github.io/leaflet-providers/preview/). Diversi sfondi sono disponibili previo pagamento di servizi che erogano API ad hoc, ma si trovano tanti sfondi da poter utilizzare gratuitamente alla sola condizione di citare la fonte nella sezione "metadati" della funzione "personalizzazione sfondo".
+
+
