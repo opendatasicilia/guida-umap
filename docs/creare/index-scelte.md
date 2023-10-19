@@ -31,7 +31,7 @@ Chi è in possesso di dataset in questi formati, caricandoli su uMap attraverso 
 
 Un formato molto diffuso soprattutto nei software gestionali. I formati `csv` possono essere costituiti dai file di [**Google spreadsheet**](https://spreadsheets.google.com/), che, se resi leggibili da chiunque nelle impostazioni, possono essere letti da uMap automaticamente attraverso uno specifico URL. Questo aspetto rappresenta un enorme possibilità di interazione con uMap in quanto aggiornando i dati sui fogli Google, automaticamente ed in tempo quasi reale gli aggiornamenti sono resi visibile nelle mappe uMap. 
 
-Chi ha redatto questa guida utilizza molto spesso uMap in collegamento con i fogli Google realizzando mappe molto utili ed efficaci in termini di restituzione di informazioni contenute in altri servizi web (appunto Google spreadsheet).
+Chi ha redatto questa guida utilizza molto spesso uMap in collegamento con i fogli Google realizzando mappe molto utili ed efficaci in termini di restituzione di informazioni contenute in altri servizi web (per l'appunto Google spreadsheet).
 
 !!! info "approfondimento caricamento dati da fonti esterne, nella sezione ==importa dati=="
 
