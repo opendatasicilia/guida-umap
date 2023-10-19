@@ -4,7 +4,7 @@
 
 **`Stile del contenuto del Popup`**, si tratta dello stile del contenuto della finestra che si apre al clic sul punto/polilinea/poligono della mappa. Può essere dei seguenti tipi: **predefinito**, **tabella**, **GeoRSS (titolo + immagine)**, **GeoRSS (solo link)**. Il creatore della mappa decide lo strile del contenuto del popup in base alle esigenze di rappresentazione grafica sulla mappa.
 
-**`Modello del contenuto del popup`**, specificando le proprietà dell'oggetto attraverso le parentesi graffe - es. `{name}` - queste saranno automaticamente sostituite con i valori corrispondenti. Il testo può essere formattato con la seguente sintassi.
+**`Modello del contenuto del popup`**, specificando le proprietà dell'oggetto attraverso le parentesi graffe - es. `{name}` - queste saranno automaticamente sostituite con i valori corrispondenti. Il testo può essere formattato con la seguente sintassi: 
 
 !!! Info "editor per la formattazione del testo"
 
