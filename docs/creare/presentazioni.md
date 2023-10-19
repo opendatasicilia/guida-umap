@@ -12,4 +12,4 @@ Si può fissare il tempo (in secondi) di permanenza di una visualizzazione prima
 
 Sono possibili transizioni animate.
 
-Infine è possobile far partire in automatico la presentazione al caricamento iniziale della mappa.
+Infine è possibile far partire in automatico la presentazione al caricamento iniziale della mappa.
