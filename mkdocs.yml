@@ -50,6 +50,7 @@ nav:
   - Blog: blog/index.md
   - Informazioni: 
     - Informazioni: informazioni/index.md
+    - Catalogo mappe uMap: informazioni/catalogo-mappe.md
 
 
 
