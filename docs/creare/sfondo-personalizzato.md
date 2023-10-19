@@ -31,7 +31,11 @@ L'estensione `.tms` rappresenta - tra le altre cose - anche il tipo di file Tabl
 
 ## Una fonte di numerosi sfondi per uMap
 
-Esistono diverse fonti per alimentare e personalizzare lo sfondo delle mappe su uMap. Una fonte molto interessante per varietà di sfondi é: [**https://leaflet-extras.github.io/leaflet-providers/preview**](https://leaflet-extras.github.io/leaflet-providers/preview/). Diversi sfondi sono disponibili previo pagamento di servizi che erogano API ad hoc, ma si trovano tanti sfondi da poter utilizzare gratuitamente alla sola condizione di citare la fonte nella sezione "metadati" della funzione "personalizzazione sfondo".
+Esistono diverse fonti per alimentare e personalizzare lo sfondo delle mappe su uMap. Una fonte molto interessante per varietà di sfondi é: 
+
+[**https://leaflet-extras.github.io/leaflet-providers/preview**](https://leaflet-extras.github.io/leaflet-providers/preview/). 
+
+Diversi sfondi sono disponibili previo pagamento di servizi che erogano API ad hoc, ma si trovano tanti sfondi da poter utilizzare gratuitamente alla sola condizione di citare la fonte nella sezione "metadati" della funzione "personalizzazione sfondo".
 
 ## Un editor per creare sfondi da usare su uMap
 
