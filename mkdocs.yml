@@ -46,7 +46,6 @@ nav:
     - Inserire manualmente: creare/inserire-manualmente.md
     - Opzioni interfaccia utente: creare/opzioni-interfaccia-utente.md
     - Importa dati: creare/importa-dati.md
-    - Aggiungi layer: creare/aggiungi-layer.md
     - Proprieta predefinite forma: creare/proprieta-predefinite-forma.md
     - Proprieta preimpostate: creare/proprieta-preimpostate.md
     - Opzioni interazione predefinite: creare/opzioni-interazione-predefinite.md
@@ -56,6 +55,7 @@ nav:
     - Presentazioni: creare/presentazioni.md
     - Ringraziamenti: creare/ringraziamenti.md
     - Azioni avanzate: creare/azioni-avanzate.md
+    - Aggiungi layer: creare/aggiungi-layer.md
   - Blog: blog/index.md
   - Informazioni: 
     - Informazioni: informazioni/index.md
