@@ -47,7 +47,7 @@ Se decidiamo di cambiare successivamente il nome della mappa che abbiamo dato in
 
 In questo campo possiamo editare tutto il testo che riteniamo necessario. Oltre al testo è possibile inserire link, iframe e immagini. Un editor di uMap ci guida in questa fase
 
-!!! Info "editor"
+!!! Info "editor per la formattazione del testo"
 
     Formattazione testo 
     
