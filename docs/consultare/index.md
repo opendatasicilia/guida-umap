@@ -1,4 +1,4 @@
-# Consultare
+# Consultare una mappa
 
 ![docs/img/umap-consultazione.jpg](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-consultazione.jpg)
 
