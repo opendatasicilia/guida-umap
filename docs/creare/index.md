@@ -83,6 +83,8 @@ Nelle pagine che seguono vediamo come proseguire con le numerose impostazioni.
 
 Salva, salva salva.
 
+![](/docs/img/salva.PNG)
+
 !!! warning "salvare sempre dopo aver compiuto azioni nel pannello di controllo"
 
     Quando si effettuano azioni sul pannello di controllo bisogna ricordarsi di cliccare sempre sul tasto di colore azzurro in alto **salva** altrimenti le modifiche e le azioni effettuate non saranno memorizzate.
