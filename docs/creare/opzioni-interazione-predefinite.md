@@ -43,5 +43,9 @@
 
 **`Etichette cliccabili`**, si può stabilire di fare diventare le etichette cliccabili con il mouse oppure no.
 
-**`Apri link in…`**, se nel campo descrizione del punto/polilinea/poligono sono presenti dei link, con questo comando si può decidere se aprire il link in **nuova finestra**, come **iframe** cioè incorporato dentro la stessa mappa dentro una nuova piccola finestra che viene aperta, oppure nella **finestra di origine**, in quest'ultimo caso la  mappa sparirà per dare posto al nuovo link (non appare conveniente settare questa opzione in quanto si perde la visualizzazione della mappa).
+**`Apri link in…`**, se nel campo descrizione del punto/polilinea/poligono sono presenti dei link, con questo comando si può decidere se aprire il link in: 
+
+   - **nuova finestra**, si aprirà una nuova finestra del browser accanto a quella della mappa;
+   - come **iframe** cioè incorporato dentro la stessa mappa dentro una nuova piccola finestra che viene aperta;
+   - oppure nella **finestra di origine**, in quest'ultimo caso la  mappa sparirà per dare posto al nuovo link (non appare conveniente settare questa opzione in quanto si perde la visualizzazione della mappa).
 
