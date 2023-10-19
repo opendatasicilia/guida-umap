@@ -11,7 +11,7 @@ Le opzioni di condivisione sono diverse, vediamole:
   - **URL breve**: è l'URL reso corto (per comodità) che si utilizza in un browser di navigazione internet per visualizzare la mappa.
   - **Download dei dati**: con questa funzione possiamo scaricare il formato aperto del dataset che alimenta la mappa su uMap. E' possibile scaricare diversi formati aperti di dataset (open data). Questa è un importantissima funzione di uMap in quanto oltre ad essere un servizio web di visualizzazione di mappe interattive, è anche un contenitore di dataset open data, formati che possono essere riusati per fare altre cose in altri contesti. Vediamo quali tipi di dataset è possibile scaricare:
       - <kbd>mappa completa</kbd>: si tratta di un formato uMap che contiene tutti i layer, tutte le icone utilizzate con uMap, praticamente tutto quello che è stato creato con la mappa. Queso formato lo possiamo utilizzare su uMap per creare una mappa copia di quella dalla quale abbiamo scaricato il dataset.
-      - <kbd>geojso</kbd>: un formato molto noto che contiene informazioni geografiche che può essere utilizzato, ad esempio, per creare progetti con il software opensource QGIS.
+      - <kbd>geojson</kbd>: un formato molto noto che contiene informazioni geografiche che può essere utilizzato, ad esempio, per creare progetti con il software opensource QGIS.
       - <kbd>gpx</kbd>: un formato classico per i dati geografici, utilizzato dai navigatori satellitari, che può essere utilizzato sugli stessi per riportare i dati su dispositivi mobili. Un formato che può essere utilizzato anche con Google map.
       - <kbd>kml</kbd>: il formato dati geografici utilizzato da Google nella sua piatattaforma Google map.
    
