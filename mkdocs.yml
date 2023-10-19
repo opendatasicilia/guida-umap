@@ -13,7 +13,7 @@ theme:
   language: it
   favicon: img/favicon.PNG
   icon:
-    logo: img/favicon.PNG
+    logo: https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/favicon.PNG
   palette:
     primary: light blue
   features:
