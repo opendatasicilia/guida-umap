@@ -75,6 +75,9 @@ nav:
 
 
 markdown_extensions:
+  - toc:
+        permalink: ↵
+        toc_depth: 3
   - admonition
   - pymdownx.details
   - pymdownx.superfences:
