@@ -7,13 +7,13 @@ categories:
 
 # Benvenuti nella sezione blog della guida
 
-Il blog permette di costruire ricette per migliorare la creazione e consultazione delle mappe.
+Il blog permette di costruire ricette per migliorare e arricchire la creazione e consultazione delle mappe.
 
-E' una sezione della guida che permette di ampliare la conoscenza sull'utilizzo di uMap. Fortunatamente uMap è una piattaforma web molto ricca di personalizzazioni, e quindi addentrarsi nelle features è una cosa da farsi dedicando ad ogni post l'attenzione ad un aspetto specifico.
+E' una sezione della guida che permette di ampliare la conoscenza sull'utilizzo di uMap. Fortunatamente uMap è una piattaforma web molto ricca di personalizzazioni, e quindi addentrarsi nelle varie features è una cosa da fare dedicando in ogni post l'attenzione ad un aspetto specifico.
 
 <!-- more -->
 
-Per aumentare la possibilità di interazione con i fruitori della guida viene in supporto [__GitHub discussions__](https://github.com/opendatasicilia/guida-umap/discussions). 
+Per aumentare la possibilità di interazione con i fruitori della guida viene in supporto il servizio [__GitHub discussions__](https://github.com/opendatasicilia/guida-umap/discussions). 
 
 
 ## GitHub Discussions
@@ -28,6 +28,7 @@ GitHub Discussions è un utile servizio per l'interazione tra creatori e fruitor
 
 ## Conclusioni
 
-Consolidando la comunicazione con GitHub Discussions, cerchiamo di mitigare la frammentazione delle informazioni, facilitare il percorso dell'utente e rafforzare i legami all'interno della nostra comunità.  GitHub Discussions semplifica e accelera la procedura, garantendo risoluzioni rapide ed efficaci. 
-Siamo fiduciosi che questo approccio semplificato stimolerà di più discussioni fruttuose, idee innovative e crescita collettiva, e noi siamo felici di continuare il nostro viaggio con il supporto attivo della comunità.
+Consolidando la comunicazione con GitHub Discussions, cerchiamo di mitigare la frammentazione delle informazioni, facilitare il percorso dell'utente e rafforzare i legami all'interno della nostra comunità.  GitHub Discussions semplifica e accellera la procedura, garantendo soluzioni rapide ed efficaci. 
+
+Siamo fiduciosi che questo approccio semplificato stimolerà discussioni fruttuose, idee innovative e crescita collettiva.
 
