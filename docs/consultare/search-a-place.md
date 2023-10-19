@@ -1,15 +1,15 @@
 # Cerca un luogo
 
-La funzione di "searche a place" (cerca un luogo) serve per cercare un sito/località nella mappa.
+La funzione di "**search a place**" (cerca un luogo) serve per cercare un sito/località nella mappa.
 
 Basta digitare il nome del sito ed esso verrà visualizzato nella mappa.
 
 
 !!! attention "importante"
 
-    Il sito si troverà nella mappa se esso è stato censito dalla comunità mondiale di Openstreetmap sulla mappa. 
+    Il sito si troverà nella mappa se esso è stato censito dalla comunità mondiale di **OpenStreetMap** sulla mappa. 
     Diversamente se non è stato censito, il sito non sarà individuabile. 
-    Da ciò si deduce che l'attività volontaria di  mappatura su Openstreetmap è fondamentale per l'arricchimento delle mappe stesse.
+    Da ciò si deduce che l'attività volontaria di  mappatura su OpenStreetMap è fondamentale per l'arricchimento delle mappe uMap.
 
 
 !!! info "impostarlo in fase di creazione della mappa"
