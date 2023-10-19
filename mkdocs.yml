@@ -12,8 +12,6 @@ theme:
   name: material
   language: it
   favicon: img/favicon.PNG
-  icon:
-    logo: https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/favicon.PNG
   palette:
     primary: light blue
   features:
