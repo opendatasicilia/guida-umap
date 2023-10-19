@@ -81,3 +81,8 @@ In questo campo possiamo editare tutto il testo che riteniamo necessario. Oltre 
 Queste due prime impostazioni rappresentano lo start per iniziare a costruire una mappa.
 
 Nelle pagine che seguono vediamo come proseguire con le numerose impostazioni.
+
+
+!!! attention "salvare sempre dopo aver compiuto azioni nel pannello di controllo"
+
+    Quando si effettuano azioni sul pannello di controllo bisogna ricordarsi di cliccare sempre sul tasto di colore azzurro in alto **salva** altrimenti le modifiche e le azioni effettuate non saranno memorizzate.
