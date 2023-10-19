@@ -26,4 +26,9 @@ In questo spazio è possibile editare il nome utente di altri soggetti (che già
 
 ## Datalayers
 
-In questo spazio è possibile decidere per singolo layer chi può contribuire allo sviluppo della mappa.
+In questo spazio è possibile decidere per singolo layer chi può contribuire allo sviluppo della mappa. E' possibile effettuare le scelte:
+
+   - inherit,
+   - chiunque,
+   - solamente chi contribuisce,
+   - solo chi ha la proprietà.
