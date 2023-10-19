@@ -21,6 +21,7 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.tabs
+  custom_dir: overrides
 
 
 plugins:
