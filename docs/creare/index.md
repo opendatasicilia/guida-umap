@@ -82,6 +82,8 @@ Queste due prime impostazioni rappresentano lo start per iniziare a costruire un
 
 Nelle pagine che seguono vediamo come proseguire con le numerose impostazioni.
 
+## Salva
+
 
 !!! attention "salvare sempre dopo aver compiuto azioni nel pannello di controllo"
 
