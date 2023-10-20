@@ -1,6 +1,6 @@
 # Altre risorse su uMap disponibili sul web
 
-Il web rende disponibili risorse preziose in termini di spiegazioni sull'uso di uMap. Di seguito si riportano le principali che si rinvengono cercando sul motore di ricerca Google.
+Il web rende disponibili risorse preziose in termini di spiegazioni sull'uso di uMap, e casi pratici. Di seguito si riportano le principali che si rinvengono cercando sul motore di ricerca Google.
 
 
 ## Guida uMap di Luca Scalzullo
@@ -23,16 +23,16 @@ Un [**video**](https://www.piersoft.it/tutorial-datawrapper-umap-e-linkedopendat
 
 [**Diversi tutorial**](https://nilocram.wordpress.com/?s=umap) su argomenti chiave di uMap:
 
-   - Usare i poligoni in uMap
-   - Organizzare una mappa uMap con i livelli
-   - Creare finestre pop-up multimediali in uMap
-   - Come modificare e personalizzare una mappa di uMap
-   - Registrare un account uMap e creare una bella mappa
-   - Creo la mia prima mappa con uMap
-   - Come consultare una mappa uMap
-   - uMap: un software libero per creare mappe personalizzate
-   - Progetto Adalgisa: una mappa di percorsi ciclo-pedonali per promuovere una mobilità sostenibile
-   - Pubblicare una mappa e controllarne l’accesso
+   1. Usare i poligoni in uMap
+   2. Organizzare una mappa uMap con i livelli
+   3. Creare finestre pop-up multimediali in uMap
+   4. Come modificare e personalizzare una mappa di uMap
+   5. Registrare un account uMap e creare una bella mappa
+   6. Creo la mia prima mappa con uMap
+   7. Come consultare una mappa uMap
+   8. uMap: un software libero per creare mappe personalizzate
+   9. Progetto Adalgisa: una mappa di percorsi ciclo-pedonali per promuovere una mobilità sostenibile
+   10. Pubblicare una mappa e controllarne l’accesso
 
 ## Alcune brevi schede tutorial da Roberto Marcolin
 
