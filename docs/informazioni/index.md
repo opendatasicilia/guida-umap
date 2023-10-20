@@ -17,6 +17,6 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" e facciamo parte dell
 
 Abbiamo avviato il lavoro per realizzare questa guida a metà ottobre 2023. Il lavoro prosegue nel tempo:
 
-   - soprattutto con i post del blog, dove vengono illustrate soprattutto ricette da preparare su uMap;
+   - soprattutto con i post del blog, dove vengono illustrate ricette da preparare su uMap;
    - con gli aggiornamenti - ove necessario - degli argomenti che sono tratti nelle varie pagine della guida.
 
