@@ -25,9 +25,9 @@ Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
 La guida è strutturata in maniera tale da offrire informazioni dettagliate su:
 
   1. **consultazione di una mappa già realizzata**. Questa sezione illustra tutte le funzioni disponibili per un uso esaustivo della mappa;
-  2. **creazione di una mappa**. Questa sezione, molto più ampia della prima, illsutra tutte le funzioni che uMap mette a disposizione dell'utente per generare una mappa, e le possibili interazioni con altri strumenti online (es.: collegamenti con Google spreadsheet, uso di immagini e link interattivi, iframe, ecc.).
+  2. **creazione di una mappa**. Questa sezione, molto più ampia della prima, illsutra tutte le funzioni che uMap mette a disposizione dell'utente per generare una mappa, e le possibili interazioni con altri strumenti online (es.: collegamenti con Google spreadsheet, uso di immagini e link interattivi, iframe, ecc.);
   3. **blog** cioè una sezione contenente delle ricette che è possibile realizzare con uMap e che rendono la mappa ricca di informazioni da trasmettere in forma visuale all'utente.
 
 ## Andare oltre la Wiki di Openstreetmap su uMap
 
-La Community [**Openstreetmap**](https://wiki.openstreetmap.org/wiki/IT:UMap/Guide) ha creato una Wiki sulle mappe di uMap. Questa guida vuole rappresentare un servizio ulteriore di approfondimento e soprattutto di facilitazione per chiunque si cimenti nella creazione di una mappa.
+La Community [**Openstreetmap**](https://wiki.openstreetmap.org/wiki/IT:UMap/Guide) ha creato una Wiki sulle mappe di uMap. Questa guida vuole rappresentare un ulteriore approfondimento e facilitazione per chiunque si cimenti nella creazione di una mappa.
