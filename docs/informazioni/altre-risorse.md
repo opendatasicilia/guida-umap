@@ -1,6 +1,6 @@
 # Altre risorse su uMap disponibili sul web
 
-Il web rende disponibili risorse preziose in termini di spiegazioni sull'uso di uMap. Di seguito si riportano le principali.
+Il web rende disponibili risorse preziose in termini di spiegazioni sull'uso di uMap. Di seguito si riportano le principali che si rinvengono cercando sul motore di ricerca Google.
 
 
 ## Guida uMap di Luca Scalzullo
