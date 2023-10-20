@@ -38,15 +38,15 @@ Un [**video**](https://www.piersoft.it/tutorial-datawrapper-umap-e-linkedopendat
 
 [**Schede in formato pdf**](https://roberto-marcolin.canoprof.fr/eleve/uMap):
 
-   - 1_Creare una mappa personalizzata con uMap
-   - 2_Come consulto una mappa uMap
-   - 3_Creo la prima mappa uMap
-   - 4_Registro un account, creo una bella mappa
-   - 5_Modificare, personalizzare una mappa uMap
-   -  6_Creare popup_multimediali
-   -  7_Organizzare una mappa uMap con i livelli
-   -  8_Usare_i_poligoni
-   -  9_Pubblicare_una_mappa_controllarne_l'accesso
+   1. Creare una mappa personalizzata con uMap
+   2. Come consulto una mappa uMap
+   3. Creo la prima mappa uMap
+   4. Registro un account, creo una bella mappa
+   5. Modificare, personalizzare una mappa uMap
+   6. Creare popup multimediali
+   7. Organizzare una mappa uMap con i livelli
+   8. Usare i poligoni
+   9. Pubblicare una mappa controllarne l'accesso
 
 ## Un tutorial su come tematizzare velocemente i poligoni di Giovan Battista Vitrano
 
