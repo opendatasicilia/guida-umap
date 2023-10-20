@@ -6,8 +6,8 @@ Un cookie è un piccolo file di testo contenente un numero di identificazione un
 
 I cookie possono essere classificati in due categorie, in base alle loro funzionalità:
 
-   - Cookie tecnici (di cui fanno parte i cookie sulle prestazioni e i cookie funzionali),
-   - Cookie profilanti (di cui fanno parte i cookie legati alle pubblicità). Non è il caso di questo sito.
+   - **Cookie tecnici** (di cui fanno parte i cookie sulle prestazioni e i cookie funzionali),
+   - **Cookie profilanti** (di cui fanno parte i cookie legati alle pubblicità). **Non è il caso di questo sito**.
 
 Il sito utilizza solo il primo tipo di cookie, di tipo tecnico, per i quali non è richiesto alcun consenso.
 
@@ -159,4 +159,4 @@ Selezionare una delle seguenti opzioni:
 
 Come indicato, l’Utente potrà negare il consenso all’installazione dei cookie per il mezzo del browser di navigazione in uso seguendo le istruzioni ivi fornite o accedendo al sito [http://www.youronlinechoices.com/it/le-tue-scelte/](http://www.youronlinechoices.com/it/le-tue-scelte/).
 
-Per ulteriori informazioni su come cancellare e controllare i cookie archiviati sul computer, si prega di consultare [http://www.allaboutcookies.org/manage-cookies/index](http://www.allaboutcookies.org/manage-cookies/index). Non è possibile, tuttavia, garantire la correttezza e l’aggiornamento delle informazioni ivi contenute.
+Per ulteriori informazioni su come cancellare e controllare i cookie archiviati sul computer, si prega di consultare [http://www.allaboutcookies.org](https://allaboutcookies.org/). Non è possibile, tuttavia, garantire la correttezza e l’aggiornamento delle informazioni ivi contenute.
