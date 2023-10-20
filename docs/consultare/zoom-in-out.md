@@ -2,9 +2,13 @@
 
 I segni <kbd>+</kbd> e <kbd>-</kbd> rappresentano, come in tutti i sistemi di mappa interattivi, la possibilità di effettuare ingrandimenti e riduzioni visuali della mappa.
 
-Lo zoom in può essere effettuato fino ad un certo livello, di solito si arriva ad un livello ++"16"++ , ++"17"++ o ++"18"++ come è possibile visualizzare nell'URL della mappa, prima delle coordinate di latitudine e longitudine:
+Lo zoom in può essere effettuato fino ad un certo livello, di solito si arriva ad un livello 
 
-==`https://umap.openstreetmap.fr/it/map/parcheggi-pubblici-e-privati-a-palermo_123125#16/38.1487/13.3547`==
+++"16"++ , ++"17"++ o ++"18"++ 
+
+come è possibile visualizzare nell'URL della mappa, dopo il numero `123125#` e prima delle coordinate di latitudine e longitudine `/38.1487/13.3547`:
+
+`https://umap.openstreetmap.fr/it/map/parcheggi-pubblici-e-privati-a-palermo_123125#16/38.1487/13.3547`
 
 Su questo argomento non c'è molto da dire per quanto rigurda la fase di **consultazione** delle mappe, mentre nella sezione dedicata alla **creazione** viene approfondito in quanto è possibile settare il livello di ingrandimento massimo e minimo.
 
