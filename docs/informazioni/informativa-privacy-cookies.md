@@ -157,6 +157,9 @@ Selezionare una delle seguenti opzioni:
    - Accetta i cookie solo dal sito che si visita: i cookie di terze parti e che vengono inviati da un dominio diverso da quello che si sta visitando verranno rifiutati
    - Non accettare mai i cookie: tutti i cookie non verranno mai salvati
 
+
+## Gestione / cancellazione cookies
+
 Come indicato, l’Utente potrà negare il consenso all’installazione dei cookie per il mezzo del browser di navigazione in uso seguendo le istruzioni ivi fornite o accedendo al sito [http://www.youronlinechoices.com/it/le-tue-scelte/](http://www.youronlinechoices.com/it/le-tue-scelte/).
 
 Per ulteriori informazioni su come cancellare e controllare i cookie archiviati sul computer, si prega di consultare [http://www.allaboutcookies.org](https://allaboutcookies.org/). Non è possibile, tuttavia, garantire la correttezza e l’aggiornamento delle informazioni ivi contenute.
