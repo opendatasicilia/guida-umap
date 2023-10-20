@@ -12,8 +12,8 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: it
-  favicon: img/favicon.PNG
-  logo: img/favicon.PNG
+  favicon: img/favicon.png
+  logo: img/logo.png
   palette:
     primary: light blue
   features:
