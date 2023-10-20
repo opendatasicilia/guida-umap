@@ -12,7 +12,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: it
-  favicon: img/favicon.png
+  favicon: img/favicon.ico
   logo: img/logo.png
   palette:
     primary: light blue
