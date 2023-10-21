@@ -1,4 +1,4 @@
-# Misura le distanze
+# Misura le distanze :material-social-distance-6-feet:
 
 Un icona a forma di righello indica la funzione di "**misura la distanza**".
 
