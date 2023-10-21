@@ -46,7 +46,7 @@ Questa è una funzione importante. Possiamo decidere di far visualizzare la funz
    - **`gpx`**: un formato classico per i dati geografici, utilizzato dai navigatori satellitari, che può essere utilizzato sugli stessi per riportare i dati su dispositivi mobili. Un formato che può essere utilizzato anche con Google map.
    - **`kml`**: il formato dati geografici utilizzato da Google nella sua piatattaforma Google map.
    
-Questi formati disponibili al download sono una vera risorsa prezione di dati che si prestano a innumerevoli riusi. Può capitare, tuttavia, che il creatore della mappa intende solo far visualizzare la mappa attraverso l'indirizzo URL, ma per vari ragioni non vuole condividere i formati dei dati che alimentano la mappa.
+Questi formati disponibili al download sono una vera risorsa preziosa di dati che si prestano a innumerevoli riusi. Può capitare, tuttavia, che il creatore della mappa intende solo far visualizzare la mappa attraverso l'indirizzo URL, ma per vari ragioni non vuole condividere i formati dei dati che alimentano la mappa.
 
 !!! tip "decidere come viene compiuta la funzione"
 
