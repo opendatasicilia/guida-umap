@@ -1,4 +1,4 @@
-# Cerca un luogo
+# Cerca un luogo :octicons-search-24:
 
 La funzione di "**search a place**" (cerca un luogo) serve per cercare un sito/località nella mappa.
 
