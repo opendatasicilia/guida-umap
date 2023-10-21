@@ -1,4 +1,4 @@
-# Inserire manualmente punti, polilinee e poligoni
+# Inserire manualmente punti, polilinee e poligoni :writing_hand_tone1:
 
 In alto nel menù di destra abbiamo 3 icone: ==**punti**==, ==**polilinee**== e ==**poligoni**==.
 
