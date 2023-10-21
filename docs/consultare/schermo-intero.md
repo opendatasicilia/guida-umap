@@ -2,7 +2,7 @@
 
 L'icona a forma di quadrato indica la possibilità di visualizzare la mappa a schermo intero. 
 
-Cliccando nuovamente nell'icona ritornerà come prima.
+Cliccando nuovamente nell'icona ritornerà come prima :material-fit-to-screen: .
 
 
 !!! info "impostarlo in fase di creazione della mappa"
