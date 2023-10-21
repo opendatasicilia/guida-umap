@@ -1,4 +1,4 @@
-# Vedi i layer dei dati
+# Vedi i layer dei dati :fontawesome-solid-layer-group:
 
 Questa funzione ha l'obiettivo di mostrare all'utente tutti gli strati (layer) dei dati creati nella mappa.
 
