@@ -10,6 +10,15 @@ Nella realizzazione di questa guida siamo stati:
 
 Siamo tutti appassionati di mappe ma anche di "*spiegoni*" e facciamo parte della community di [**OpendataSicilia**](https://opendatasicilia.it/)
 
+!!! info "i nostri canali"
+
+    blog [http://opendatasicilia.it](http://opendatasicilia.it); 
+    facebook [https://www.facebook.com/groups/opendatasicilia](https://www.facebook.com/groups/opendatasicilia/);
+    twitter [http://twitter.com/opendatasicilia](http://twitter.com/opendatasicilia);
+    gruppo Telegram [https://t.me/opendatasicilia](https://t.me/opendatasicilia);
+    newsletter [http://eepurl.com/bPWYdj](http://eepurl.com/bPWYdj)
+
+
 ![](https://i0.wp.com/opendatasicilia.it/wp-content/uploads/2021/11/logo-e1639380885326.png)
 
 
