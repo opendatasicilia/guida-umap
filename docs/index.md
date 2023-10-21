@@ -18,9 +18,9 @@ Recentemente uMap ha rinnovato la propria piattaforma, migliorando l'interfaccia
 Questa guida rappresenta uno strumento di approfondimento e facilitazione per la creazione di mappe:
 
 * per supportare chi volesse iniziare a creare mappe attraverso uMap,
-* per diffondere la cultura delle mappe interattive,
+* per diffondere la cultura delle mappe web interattive,
 * per diffondere la cultura dei dati in formato aperto,
-* perché ci piace fare guide su come fare qualcosa che possa tornare utile a molte persone.
+* perché ci piace fare guide.
 
 ## Struttura della guida
 
