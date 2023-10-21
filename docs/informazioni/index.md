@@ -1,6 +1,6 @@
 # Informazioni
 
-## Chi siamo
+## Chi siamo :material-head-snowflake-outline:
 
 Nella realizzazione di questa guida siamo stati:
 
