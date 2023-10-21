@@ -115,3 +115,21 @@ extra_javascript:
   # - javascripts/tables.js
   # - https://unpkg.com/mermaid/dist/mermaid.min.js
   - javascripts/varie.js
+
+# extra:
+#   analytics:
+#     feedback:
+#       title: Ti è stato utile?
+#       ratings:
+#         - icon: material/emoticon-happy-outline
+#           name: Mi è stata utile
+#           data: 1
+#           note: >-
+#             Grazie per il tuo riscontro!
+#         - icon: material/emoticon-sad-outline
+#           name: Potrebbe essere migliorata
+#           data: 0
+#           note: >-
+#             Grazie per il tuo riscontro! Aiutaci a migliorare,
+#             compilando <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNlh32w_RNRLYLQns-ThjYNXX71l9AFLcRGo-EIV_qpErDmw/viewform?usp=pp_url&entry.160908168={url}" target="_blank" rel="noopener">questo form</a>.
+
