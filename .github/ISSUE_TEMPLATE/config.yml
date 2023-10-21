@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Issue
+    url: https://github.com/opendatasicilia/guida-umap/issues/new
+    about: Apri una issue
   - name: La guida
     url: https://opendatasicilia.github.io/guida-umap/
     about: Sito web della guida
