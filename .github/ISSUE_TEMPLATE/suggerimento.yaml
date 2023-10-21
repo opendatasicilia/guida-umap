@@ -1,0 +1,20 @@
+name: "Suggerimento"
+description: Hai un suggerimento per una pagina della guida? Usa questo modulo
+labels: ["suggerimento"]
+body:
+- type: textarea
+  id: descrizione
+  attributes:
+    label: Descrizione
+    description: Fornisci una breve descrizione di ciò che speravi di trovare in questa pagina e di ciò che ritieni possa essere migliorato. Più specifica è, meglio è.. Puoi usare la sintassi [markdown](https://guides.github.com/features/mastering-markdown/).
+    placeholder: Lorem ipsum
+  validations:
+    required: true
+- type: input
+  id: URL
+  attributes:
+    label: URL di riferimento
+    description: Inserisci l'URL della pagina per la quale hai un suggerimento. Se non hai un URL, lascia vuoto questo campo.
+    placeholder: https://example.com
+  validations:
+    required: false
