@@ -12,6 +12,8 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" e facciamo parte dell
 
 !!! info "i nostri canali"
 
+    ![](https://i0.wp.com/opendatasicilia.it/wp-content/uploads/2021/11/logo-e1639380885326.png)
+    
     blog [http://opendatasicilia.it](http://opendatasicilia.it); 
     
     facebook [https://www.facebook.com/groups/opendatasicilia](https://www.facebook.com/groups/opendatasicilia/);
@@ -22,8 +24,6 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" e facciamo parte dell
     
     newsletter [http://eepurl.com/bPWYdj](http://eepurl.com/bPWYdj)
 
-
-![](https://i0.wp.com/opendatasicilia.it/wp-content/uploads/2021/11/logo-e1639380885326.png)
 
 
 ## Quando
