@@ -1,4 +1,4 @@
-# Zoom in e out
+# Zoom in e out :octicons-zoom-in-24: :octicons-zoom-out-24:
 
 I segni <kbd>+</kbd> e <kbd>-</kbd> rappresentano, come in tutti i sistemi di mappa interattivi, la possibilità di effettuare ingrandimenti e riduzioni visuali della mappa.
 
