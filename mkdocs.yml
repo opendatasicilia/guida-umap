@@ -113,6 +113,9 @@ markdown_extensions:
 extra_javascript:
   - javascripts/varie.js
 
+extra_css:
+  - css/extra.css
+
 # extra:
 #   analytics:
 #     feedback:
