@@ -1,4 +1,4 @@
-# Licenza
+# Licenza :fontawesome-brands-creative-commons:
 
 Il contenuto della presente guida è rilasciato con licenza aperta Creative Commons [**CC BY SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.it).
 
