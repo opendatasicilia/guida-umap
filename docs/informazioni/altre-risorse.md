@@ -1,4 +1,4 @@
-# Altre risorse su uMap disponibili sul web
+# Altre risorse su uMap disponibili sul web :octicons-link-external-16:
 
 Il web rende disponibili risorse preziose in termini di spiegazioni sull'uso di uMap, e casi pratici. Di seguito si riportano le principali che si rinvengono cercando sul motore di ricerca Google.
 
