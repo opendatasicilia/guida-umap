@@ -1,4 +1,4 @@
-# Aggiungi layer
+# Aggiungi layer :fontawesome-solid-layer-group:
 
 Questa sezione del menù di destra, contrassegnata dall'icona a 3 fogli sovrapposti, serve per aggiungere uno o più layer (**strati**) di informazioni nella mappa.
 
