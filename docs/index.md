@@ -8,7 +8,7 @@ hide:
 
 [**uMap**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive. 
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
-Recentemente uMap ha rinnovato la propria piattaforma, migliorando l'interfaccia utente e la relativa esperienza d'uso, e inserendo nuove funzionalità che aumentano l'elenco delle funzionalità.
+Recentemente uMap ha rinnovato la propria piattaforma, migliorando l'interfaccia utente e la relativa esperienza d'uso, e inserendo nuove funzionalità che arricchiscono l'elenco delle personalizzazioni.
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG)
 
