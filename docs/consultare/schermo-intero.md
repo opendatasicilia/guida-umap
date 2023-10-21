@@ -1,4 +1,4 @@
-# Visualizza a schermo intero
+# Visualizza a schermo intero :octicons-screen-full-16:
 
 L'icona a forma di quadrato indica la possibilità di visualizzare la mappa a schermo intero. 
 
