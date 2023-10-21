@@ -24,11 +24,11 @@ Questa guida rappresenta uno strumento di approfondimento e facilitazione per la
 
 ## Struttura della guida
 
-La guida è strutturata in maniera tale da offrire informazioni dettagliate su:
+La guida è strutturata in maniera tale da offrire informazioni dettagliate su tre ambiti:
 
-  1. **Consultazione di una mappa già realizzata**. Questa sezione illustra tutte le funzioni disponibili per un uso esaustivo della mappa.
-  2. **Creazione di una mappa**. Questa sezione, molto più ampia della prima, illsutra tutte le funzioni che uMap mette a disposizione dell'utente per generare una mappa, e le possibili interazioni con altri strumenti online (es.: collegamenti con dataset su Google spreadsheet, uso di immagini, video, link interattivi, iframe, ecc.);
-  3. **Blog**. Una sezione contenente articoli e ricette che è possibile realizzare con uMap, e che rendono la mappa ricca di informazioni da trasmettere in forma visuale all'utente.
+  1. **Consultazione di una mappa già realizzata**. Illustra tutte le funzioni disponibili per un uso esaustivo della mappa in fase di "consultazione".
+  2. **Creazione di una mappa**. Questa sezione, molto più ampia della prima, illsutra tutte le funzioni dettagliate che uMap mette a disposizione dell'utente per generare una mappa, e le possibili interazioni con altri strumenti online (es.: collegamenti con dataset su Google spreadsheet, uso di immagini, video, link interattivi, iframe, ecc.);
+  3. **Blog**. Articoli e ricette che è possibile realizzare con uMap, e che rendono la mappa ricca di informazioni da trasmettere in forma visuale all'utente.
 
 !!! tip "URL breve della guida"
 
