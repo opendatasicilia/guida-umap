@@ -30,6 +30,6 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su:
   2. **creazione di una mappa**. Questa sezione, molto più ampia della prima, illsutra tutte le funzioni che uMap mette a disposizione dell'utente per generare una mappa, e le possibili interazioni con altri strumenti online (es.: collegamenti con Google spreadsheet, uso di immagini e link interattivi, iframe, ecc.);
   3. **blog** cioè una sezione contenente delle ricette che è possibile realizzare con uMap e che rendono la mappa ricca di informazioni da trasmettere in forma visuale all'utente.
 
-## URL breve della guida
+!!! tips "URL breve della guida"
 
-[<kbd>bit.ly/guida-umap</kbd>](https://bit.ly/guida-umap)
+    [<kbd>bit.ly/guida-umap</kbd>](https://bit.ly/guida-umap)
