@@ -1,4 +1,4 @@
-# Segna come mappa speciale
+# Segna come mappa speciale :octicons-star-16:
 
 L'icona a stella ha la funzione di segnare la mappa che si sta visualizzando come mappa speciale, cioè come mappa preferita.
 
