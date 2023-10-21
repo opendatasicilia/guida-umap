@@ -1,4 +1,4 @@
-# Condividi la mappa
+# Condividi la mappa :material-share-variant:
 
 L'icona che riporta il simbolo della "condivisione" posizionata in alto a sinistra ha lo scopo di fare condividere la mappa.
 
