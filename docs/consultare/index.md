@@ -6,7 +6,7 @@ Questa sezione descrive cosa può fare l'utente che visualizza la mappa sul bros
 
 L'immagine di sopra riporta le icone relative alle funzioni attivabili dall'utente per visualizzare le proprietà della mappa.
 
-## Menù delle scelte 
+## Menù delle scelte :material-arrow-decision-outline:
 
 L'elenco del menù di sinistra della mappa fornisce una serie di icone (immagine di sopra) che permettono di fare diverse cose, come di seguito specificato.
 
