@@ -1,4 +1,4 @@
-# Importa dati
+# Importa dati :material-upload:
 
 uMap permette l'importazione di dati da fonti esterne in più formati:  
 
