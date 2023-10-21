@@ -1,6 +1,6 @@
 # Informazioni
 
-## Chi siamo :material-head-snowflake-outline:
+## Chi siamo :fontawesome-solid-people-group:
 
 Nella realizzazione di questa guida siamo stati:
 
