@@ -13,9 +13,13 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" e facciamo parte dell
 !!! info "i nostri canali"
 
     blog [http://opendatasicilia.it](http://opendatasicilia.it); 
+    
     facebook [https://www.facebook.com/groups/opendatasicilia](https://www.facebook.com/groups/opendatasicilia/);
+    
     twitter [http://twitter.com/opendatasicilia](http://twitter.com/opendatasicilia);
+    
     gruppo Telegram [https://t.me/opendatasicilia](https://t.me/opendatasicilia);
+    
     newsletter [http://eepurl.com/bPWYdj](http://eepurl.com/bPWYdj)
 
 
