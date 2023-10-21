@@ -32,4 +32,4 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su:
 
 !!! tip "URL breve della guida"
 
-    [<kbd>bit.ly/guida-umap</kbd>](https://bit.ly/guida-umap)
+    [**==bit.ly/guida-umap==**](https://bit.ly/guida-umap)
