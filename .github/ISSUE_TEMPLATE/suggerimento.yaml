@@ -6,7 +6,7 @@ body:
   id: descrizione
   attributes:
     label: Descrizione
-    description: Fornisci una breve descrizione di ciò che speravi di trovare in questa pagina e di ciò che ritieni possa essere migliorato. Più specifica è, meglio è.. Puoi usare la sintassi [markdown](https://guides.github.com/features/mastering-markdown/).
+    description: Fornisci una breve descrizione di ciò che speravi di trovare in questa pagina e di ciò che ritieni possa essere migliorato. Più specifica è, meglio è. Puoi usare la sintassi [markdown](https://guides.github.com/features/mastering-markdown/).
     placeholder: Lorem ipsum
   validations:
     required: true
