@@ -15,6 +15,8 @@ Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
 
 ## Perché questa guida?
 
+Questa guida rappresenta uno strumento di approfondimento e facilitazione per la creazione di mappe:
+
 * per supportare chi volesse iniziare a creare mappe attraverso uMap,
 * per diffondere la cultura delle mappe interattive,
 * per diffondere la cultura dei dati in formato aperto,
@@ -28,6 +30,6 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su:
   2. **creazione di una mappa**. Questa sezione, molto più ampia della prima, illsutra tutte le funzioni che uMap mette a disposizione dell'utente per generare una mappa, e le possibili interazioni con altri strumenti online (es.: collegamenti con Google spreadsheet, uso di immagini e link interattivi, iframe, ecc.);
   3. **blog** cioè una sezione contenente delle ricette che è possibile realizzare con uMap e che rendono la mappa ricca di informazioni da trasmettere in forma visuale all'utente.
 
-## Andare oltre la Wiki di Openstreetmap su uMap
+## URL breve della guida
 
-La Community [**Openstreetmap**](https://wiki.openstreetmap.org/wiki/IT:UMap/Guide) ha creato una Wiki sulle mappe di uMap. Questa guida vuole rappresentare un ulteriore approfondimento e facilitazione per chiunque si cimenti nella creazione di una mappa.
+[==bit.ly/guida-umap==](https://bit.ly/guida-umap)
