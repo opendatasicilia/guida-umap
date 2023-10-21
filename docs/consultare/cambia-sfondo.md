@@ -1,4 +1,4 @@
-# Cambia lo sfondo della mappa
+# Cambia lo sfondo della mappa :material-map-plus:
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/esempio-sfondi.PNG)
 
