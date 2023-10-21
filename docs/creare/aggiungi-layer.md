@@ -6,13 +6,13 @@ Prima di creare una mappa è buona prassi fare uno schema delle tipologie temati
 
 Facciamo un esempio: se vogliamo costruire una mappa, anche semplice, della mobilità urbana potremmo decidere di avere i seguenti layer su cui caricare le diverse tipologie tematiche di dati:
 
-   1. piste ciclabili;
-   2. percorsi del tram;
-   3. aree pedonali;
-   4. percorsi del taxi sharing
-   5. area della zona a traffico limitato (ZTL);
-   6. stalli di parcheggio del car sharing;
-   7. percorsi delle navette gratuite nel centro storico della città.
+   1. piste ciclabili :person_biking_tone1:
+   2. percorsi del tram :tram:
+   3. aree pedonali :woman_walking:
+   4. percorsi del taxi sharing :oncoming_taxi:
+   5. area della zona a traffico limitato (ZTL) :traffic_light:
+   6. stalli di parcheggio del car sharing :red_car:
+   7. percorsi delle navette gratuite nel centro storico della città :bus:
 
 Queste informazioni necessitano di avere layer separati in quanto si tratta di tematismi diversi. Posso disporre già dei dati di 4 dei 7 tematismi in quanto tratto questi dati in alcuni software gestionali, e per essi posso fare un caricamento con la funzione "**importa dati**", mentre per altri 3 tematismi posso pensar di cominciare da zero, tracciando i punti (es. stalli car sharing) con i marcatori nella mappa.
 
