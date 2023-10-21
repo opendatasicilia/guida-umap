@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+
+
+
+/* cuore che pulsa */
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite; color: #ff0000;  /* colore */
+}
+
+
+
+
+
+/* rettangolo logo info stampa pdf */  
+#print-site-banner {border-color: #ff0000!important; border-radius: 10px!important; }
+
+
+
+
+
+/* cambia colore al footer e a page next/pre */
+.md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}   
+.md-footer-meta {    background-color: var(--md-footer-bg-color); color: #898989!important; font-size: .64rem!important; padding: 0.5rem!important; }  /* aggiunti dopo la vers.8 */
+/* .md-social__link { text-align: left;!important; } */                    /* allinea le icone dei social link */  /* disattivato */
+/* .md-social { margin: 0 .0rem;!important; padding: .6rem 0 .6rem; } */   /* allinea le icone dei social link */  /* disattivato */
+
+
+
+
+
+/* Content area width (https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#content-area-width) */     /* disattivato */  
+/*
+.md-grid {
+  max-width: 1250px; 
+}
+*/
