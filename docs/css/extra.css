@@ -27,12 +27,13 @@
 
 
 
-/* cambia colore al footer e a page next/pre */
+/* cambia colore al footer e a page next/pre */   /*  disattivato  */
+/*
 .md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}   
 .md-footer-meta {    background-color: var(--md-footer-bg-color); color: #fafaf7!important; font-size: .64rem!important; padding: 0.5rem!important; }  /* aggiunti dopo la vers.8 */
 /* .md-social__link { text-align: left;!important; } */                    /* allinea le icone dei social link */  /* disattivato */
 /* .md-social { margin: 0 .0rem;!important; padding: .6rem 0 .6rem; } */   /* allinea le icone dei social link */  /* disattivato */
-
+*/
 
 
 
