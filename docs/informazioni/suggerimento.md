@@ -1,6 +1,6 @@
 # Hai un suggerimento? :material-account-question:
 
-In ogni pagina della guida, in alto a destra trovi un link "**Hai un suggerimento?**".
+In ogni pagina della guida, alla fine del testo trovi un link "**Hai un suggerimento?**".
 
 Se il lettore della guida ha la ncessità di chiedere o suggerire qualcosa, cliccando su questo link si aprirà una pagina delle <kbd>issue</kbd> riferita all'argomento della guida in cui si trova il lettore.
 
