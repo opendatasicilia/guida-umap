@@ -12,8 +12,6 @@ Recentemente uMap ha rinnovato la propria piattaforma, migliorando l'interfaccia
 
 <div align="center"><img src="https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG"></div>
 
-![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG)
-
 
 ## Perché questa guida?
 
