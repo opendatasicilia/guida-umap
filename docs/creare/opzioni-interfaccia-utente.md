@@ -1,4 +1,4 @@
-# Opzioni interfaccia utente
+# Opzioni interfaccia utente 🛠️
 
 In alto nel menù di destra abbiamo il menù ==**Opzioni interfaccia utente**==.
 
