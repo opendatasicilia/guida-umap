@@ -25,7 +25,9 @@ Il caricamento di dataset in formato aperto rappresenta un servizio di enorme ut
 
 Chi è in possesso di dataset in questi formati, caricandoli su uMap attraverso l'uso dello strumento a forma di freccia verso l'alto (nel menù di destra) vedrà rappresentato geograficamente un'elevata quantità di informazioni. Si pensi ai navigatori GPS che generano file in formato <kbd>gpx</kbd>, questi tipi di file possono essere caricati su uMap per visulizzare percorsi e punti di interessi precedentemente tracciati. 
 
-### Il formato <kbd>csv`
+### Il formato <kbd>csv</kbd> 
+
+**CSV (Comma Separated Values): valori separati da virgola**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/49px-Google_Sheets_logo_%282014-2020%29.svg.png) Un accenno particolare va fatto per il noto formato <kbd>csv</kbd>. 
 
