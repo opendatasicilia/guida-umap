@@ -10,6 +10,8 @@ hide:
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
 Recentemente uMap ha rinnovato la propria piattaforma, migliorando l'interfaccia utente e la relativa esperienza d'uso, e inserendo nuove funzionalità che arricchiscono l'elenco delle personalizzazioni.
 
+<div align="center"><img src="https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG"></div>
+
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG)
 
 
