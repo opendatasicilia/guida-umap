@@ -33,7 +33,7 @@ Un formato molto diffuso soprattutto nei software gestionali. I formati `csv` po
 
 !!! tips "una utile guida di OnData su come pubblicare dataset in formato <kbd>CSV</kbd>"
 
-    [**Guida per la pubblicazione di CSV**](https://ondata.github.io/guidaPraticaPubblicazioneCSV/). E' in parte la traduzione alla guida del "Ministry of Economic Affairs and Digital Transformation” di Spagna.
+    [**Guida per la pubblicazione di CSV**](https://ondata.github.io/guidaPraticaPubblicazioneCSV/). E' in parte la traduzione alla guida del [Ministry of Economic Affairs and Digital Transformation](https://datos.gob.es/en/documentacion/guia-practica-para-la-publicacion-de-datos-tabulares-en-archivos-csv) di Spagna.
     
 
 Chi ha redatto questa guida utilizza molto spesso uMap in collegamento con i fogli Google realizzando mappe molto utili ed efficaci in termini di restituzione di informazioni contenute in altri servizi web (per l'appunto Google spreadsheet).
