@@ -70,7 +70,6 @@ nav:
   - Blog: blog/index.md
   - Informazioni:
     - Informazioni: informazioni/index.md
-    - Suggerimento: informazioni/suggerimento.md
     - Catalogo mappe uMap: informazioni/catalogo-mappe.md
     - Altre risorse di conoscenza: informazioni/altre-risorse.md
     - Licenza: informazioni/licenza.md
