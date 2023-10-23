@@ -5,7 +5,7 @@
 Dal menù di destra sul pannello di controllo di uMap possiamo intuire che abbiamo di fronte due diverse possibilità di lavoro nell'avviare la costruzione di una mappa:
 
   1. **inserire manualmente punti di interesse, polilinee e poligoni**;
-  2. **caricare, da fonti esterne, dataset in formato `csv`, `geojson`, `kml`, `gpx`**.
+  2. **caricare, da fonti esterne, dataset in formato <kbd>csv</kbd> , <kbd>geojson</kbd> , <kbd>kml</kbd> , <kbd>gpx</kbd>**.
 
 
 ## Inserire manualmente punti di interesse, polilinee e poligoni
@@ -19,17 +19,17 @@ L'inserimento manuale di punti, polilinee e poligoni, quindi, è utilizzato quan
 Questo tipo di uso della mappa è molto diffuso su uMap e soddisfa tante necessità da parte degli utenti.
 
 
-## Caricare, da fonti esterne, ==dataset== in formato `csv`, `geojson`, `kml`, `gpx`
+## Caricare, da fonti esterne, ==dataset== in formato <kbd>csv</kbd>, <kbd>geojson</kbd>, <kbd>kml</kbd>, <kbd>gpx</kbd>
 
 Il caricamento di dataset in formato aperto rappresenta un servizio di enorme utilità per tanti utenti. 
 
-Chi è in possesso di dataset in questi formati, caricandoli su uMap attraverso l'uso dello strumento a forma di freccia verso l'alto (nel menù di destra) vedrà rappresentato geograficamente un'elevata quantità di informazioni. Si pensi ai navigatori GPS che generano file in formato `gpx`, questi tipi di file possono essere caricati su uMap per visulizzare percorsi e punti di interessi precedentemente tracciati. 
+Chi è in possesso di dataset in questi formati, caricandoli su uMap attraverso l'uso dello strumento a forma di freccia verso l'alto (nel menù di destra) vedrà rappresentato geograficamente un'elevata quantità di informazioni. Si pensi ai navigatori GPS che generano file in formato <kbd>gpx</kbd>, questi tipi di file possono essere caricati su uMap per visulizzare percorsi e punti di interessi precedentemente tracciati. 
 
-### Il formato `csv`
+### Il formato <kbd>csv`
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/49px-Google_Sheets_logo_%282014-2020%29.svg.png) Un accenno particolare va fatto per il noto formato **`csv`**. 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/49px-Google_Sheets_logo_%282014-2020%29.svg.png) Un accenno particolare va fatto per il noto formato <kbd>csv</kbd>. 
 
-Un formato molto diffuso soprattutto nei software gestionali. I formati `csv` possono essere costituiti dai file di [**Google spreadsheet**](https://spreadsheets.google.com/), che, se resi leggibili da chiunque nelle impostazioni, possono essere letti da uMap automaticamente attraverso uno specifico URL. Questo aspetto rappresenta un enorme possibilità di interazione con uMap in quanto aggiornando i dati sui fogli Google, automaticamente ed in tempo quasi reale gli aggiornamenti sono resi visibile nelle mappe uMap. 
+Un formato molto diffuso soprattutto nei software gestionali. I formati <kbd>csv</kbd> possono essere costituiti dai file di [**Google spreadsheet**](https://spreadsheets.google.com/), che, se resi leggibili da chiunque nelle impostazioni, possono essere letti da uMap automaticamente attraverso uno specifico URL. Questo aspetto rappresenta un enorme possibilità di interazione con uMap in quanto aggiornando i dati sui fogli Google, automaticamente ed in tempo quasi reale gli aggiornamenti sono resi visibile nelle mappe uMap. 
 
 !!! tip "una utile guida di OnData su come pubblicare dataset in formato <kbd>CSV</kbd>"
 
