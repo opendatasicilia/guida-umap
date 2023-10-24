@@ -26,7 +26,7 @@ uMap soddisfa due necessità:
 Per questo motivo il servizio online di uMap è più di una visualizzazione di mappe, esso rappresenta anche un enorme database di dati in formato aperto, prontamente scaricabili e riusabili a condizione di rispettare le licenze associate e tracciate nel progetto online.
 
 
-## Perché questa guida?
+## Perché questa guida? :material-file-document-edit-outline:
 
 Questa guida rappresenta uno strumento di approfondimento e facilitazione per la creazione di mappe sul web:
 
@@ -35,7 +35,8 @@ Questa guida rappresenta uno strumento di approfondimento e facilitazione per la
 * per diffondere la cultura dei dati in formato aperto,
 * perché [ci piace](https://opendatasicilia.github.io/guida-umap/informazioni/#chi-siamo) fare guide.
 
-## Struttura della guida
+
+## Struttura della guida :material-toy-brick-search:
 
 La guida è strutturata in maniera tale da offrire informazioni dettagliate su tre ambiti:
 
@@ -43,12 +44,12 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su t
   2. **Creazione di una mappa**. Questa sezione, molto più ampia della prima, illsutra tutte le funzioni dettagliate che uMap mette a disposizione dell'utente per generare una mappa, e le possibili interazioni con altri strumenti online (es.: collegamenti con dataset su Google spreadsheet, uso di immagini, video, link interattivi, iframe, ecc.);
   3. **Blog**. Articoli e ricette che è possibile realizzare con uMap, e che rendono la mappa ricca di informazioni da trasmettere in forma visuale all'utente.
 
-!!! tip "URL breve della guida"
+!!! tip "URL breve della guida" :material-text-short:
 
     [**==bit.ly/guida-umap==**](https://bit.ly/guida-umap)
 
 
-!!! note "uMap developer documentation"
+!!! note "uMap developer documentation" :fontawesome-brands-connectdevelop:
 
     Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server. E' il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai propri dipendenti.
 
