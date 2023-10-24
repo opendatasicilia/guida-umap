@@ -8,7 +8,7 @@ hide:
 
 [**`uMap`**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive. 
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
-Recentemente uMap ha rinnovato la propria piattaforma, migliorando l'interfaccia utente e la relativa esperienza d'uso, e inserendo nuove funzionalità che arricchiscono l'elenco delle personalizzazioni.
+Recentemente `uMap` ha rinnovato la propria piattaforma, migliorando l'interfaccia utente e la relativa esperienza d'uso, e inserendo nuove funzionalità che arricchiscono l'elenco delle personalizzazioni.
 Ad oggi la piattaforma online ospita un numero elevatissimo di mappe create da utenti di tutto il mondo, il campo "cerca" permette di trovare mappe tra le più utili, incredibili e strane.
 
 La particolarità di `uMap` consiste nel fatto che si presta perfettamente sia all'utente creatore di mappe "evoluto", cioè con esperienza consolidata nel campo GIS, che all'utente "principiante" con nessuna esperienza di georeferenziazione di dati. Questo aspetto attira tanti utenti che hanno la necessità di rappresentare dati nella geografia.
