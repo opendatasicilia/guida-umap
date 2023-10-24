@@ -15,7 +15,7 @@ Le opzioni di condivisione sono diverse, vediamole:
       - <kbd>gpx</kbd>: un formato classico per i dati geografici, utilizzato dai navigatori satellitari, che può essere utilizzato sugli stessi per riportare i dati su dispositivi mobili. Un formato che può essere utilizzato anche con Google map.
       - <kbd>kml</kbd>: il formato dati geografici utilizzato da Google nella sua piatattaforma **Google map**.
 
-Questi formati disponibili al download sono una vera risorsa prezione di dati che si prestano a innumerevoli riusi.
+Questi formati di dataset disponibili al download sono una vera risorsa preziosa di dati, che si prestano a innumerevoli riusi sia per altri progetti su uMap che attraverso l'utilizzo di altri stumenti GIS (es.: QGIS).
 
 !!! attention "importante"
 
