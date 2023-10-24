@@ -37,6 +37,7 @@ Descrivere brevemente a cosa serve il layer creato.
    - **Mappa di densità**, in questo caso si crea una mappa con una rappresentazione grafica dei dati dove i singoli valori contenuti in una matrice sono rappresentati da colori (Wikipedia). Si usa quando si vuole rappresentare l'intensità di fenomeni rappresentati da una mole numerosa di dati sulla geografia del territorio.
    - **Cloropleth**, le mappe coropletiche forniscono un modo semplice per visualizzare come una variabile varia in un'area geografica o mostrare il livello di variabilità all'interno di una regione ([Wikipedia](https://en.wikipedia.org/wiki/Choropleth_map)). Queste mappe sono caratterizzate da poligoni, che in base al colore e alla tonalità di colore indicano variazioni di fenomeni.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_2715_Christianity_Anglican_Persons.svg/1280px-Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_2715_Christianity_Anglican_Persons.svg.png) <sup>Mappa coropletica</sup>
 
 ## Mostra al caricamento
 
