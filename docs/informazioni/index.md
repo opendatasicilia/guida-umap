@@ -14,15 +14,15 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" :octicons-book-24: e 
 
     ![](https://i0.wp.com/opendatasicilia.it/wp-content/uploads/2021/11/logo-e1639380885326.png)
     
-    Blog [http://opendatasicilia.it](http://opendatasicilia.it)
+    :fontawesome-solid-blog: Blog [http://opendatasicilia.it](http://opendatasicilia.it)
     
-    Facebook [https://www.facebook.com/groups/opendatasicilia](https://www.facebook.com/groups/opendatasicilia/)
+    :material-facebook: Facebook [https://www.facebook.com/groups/opendatasicilia](https://www.facebook.com/groups/opendatasicilia/)
     
-    Twitter [http://twitter.com/opendatasicilia](http://twitter.com/opendatasicilia)
+    :fontawesome-brands-x-twitter: Twitter [http://twitter.com/opendatasicilia](http://twitter.com/opendatasicilia)
     
-    Gruppo Telegram [https://t.me/opendatasicilia](https://t.me/opendatasicilia)
+    :simple-telegram: Gruppo Telegram [https://t.me/opendatasicilia](https://t.me/opendatasicilia)
     
-    Newsletter [http://eepurl.com/bPWYdj](http://eepurl.com/bPWYdj)
+    :material-email-newsletter: Newsletter [http://eepurl.com/bPWYdj](http://eepurl.com/bPWYdj)
 
 
 
