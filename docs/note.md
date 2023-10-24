@@ -30,17 +30,7 @@
 [https://it.markdown.net.br/editore/](https://it.markdown.net.br/editore/)
 
 
-## Alerts
+## Images
 
-[link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)
+[images](https://squidfunk.github.io/mkdocs-material/reference/images/?h=images)
 
-> **Note**
-> Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. 
-
-
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
-
-
-> [!WARNING]
-> Critical content demanding immediate user attention due to potential risks.
