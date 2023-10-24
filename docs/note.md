@@ -39,3 +39,9 @@
 
 [images](https://squidfunk.github.io/mkdocs-material/reference/images/?h=images)
 
+
+## Status component
+
+[Status Component](https://github.com/squidfunk/mkdocs-material/discussions/6165)
+
+
