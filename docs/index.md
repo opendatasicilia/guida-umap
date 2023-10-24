@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Guida alla consultazione e creazione di una mappa su `uMap` :map:
+# Guida alla consultazione e creazione di una mappa sulla piattaforma web di `uMap` :map:
 
 [**uMap**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive. 
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
@@ -15,7 +15,7 @@ Recentemente uMap ha rinnovato la propria piattaforma, migliorando l'interfaccia
 
 ## Perché questa guida?
 
-Questa guida rappresenta uno strumento di approfondimento e facilitazione per la creazione di mappe:
+Questa guida rappresenta uno strumento di approfondimento e facilitazione per la creazione di mappe sul web:
 
 * per supportare chi volesse iniziare a creare mappe attraverso uMap,
 * per diffondere la cultura delle mappe web interattive,
@@ -33,3 +33,10 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su t
 !!! tip "URL breve della guida"
 
     [**==bit.ly/guida-umap==**](https://bit.ly/guida-umap)
+
+
+!!! Note "uMap developer documentation"
+
+    Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server. E' il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai prpri dipendenti.
+
+    
