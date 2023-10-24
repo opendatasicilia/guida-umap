@@ -37,6 +37,6 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su t
 
 !!! note "uMap developer documentation"
 
-    Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server. E' il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai prpri dipendenti.
+    Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server. E' il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai propri dipendenti.
 
     
