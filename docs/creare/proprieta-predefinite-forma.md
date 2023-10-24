@@ -11,7 +11,7 @@ In questa sezione vengono trattati tutti i parametri che è possibile modificare
    - "goccia",
    - "palla".
 
-**`simbolo dell'icona`**, da un menù è possibile scegliere tra diverse icone che possono essere riportate sui punti della mappa. E' possibile anche importare un icona attraverso un indirizzo URL da fornire in questo campo.
+**`simbolo dell'icona`**, da un menù è possibile scegliere tra diverse icone che possono essere riportate sui punti della mappa. È possibile anche importare un icona attraverso un indirizzo URL da fornire in questo campo.
 
 **`opacità dell'icona`**, un campo in cui è possibile scegliere il livello di opacità dell'icona attraverso un cursore.
 

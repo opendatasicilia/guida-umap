@@ -9,11 +9,11 @@ categories:
 
 Il blog permette di costruire ricette per migliorare e arricchire la creazione e consultazione delle mappe.
 
-E' una sezione della guida che permette di ampliare la conoscenza sull'utilizzo di uMap. Fortunatamente uMap è una piattaforma web molto ricca di personalizzazioni, e quindi addentrarsi nelle varie features è una cosa da fare dedicando in ogni post l'attenzione ad un aspetto specifico.
+È una sezione della guida che permette di ampliare la conoscenza sull'utilizzo di uMap. Fortunatamente uMap è una piattaforma web molto ricca di personalizzazioni, e quindi addentrarsi nelle varie features è una cosa da fare dedicando in ogni post l'attenzione ad un aspetto specifico.
 
 <!-- more -->
 
-Per aumentare la possibilità di interazione con i fruitori della guida viene in supporto il servizio [__GitHub discussions__](https://github.com/opendatasicilia/guida-umap/discussions). 
+Per aumentare la possibilità di interazione con i fruitori della guida viene in supporto il servizio [__GitHub discussions__](https://github.com/opendatasicilia/guida-umap/discussions).
 
 
 ## GitHub Discussions
@@ -28,7 +28,7 @@ GitHub Discussions è un utile servizio per l'interazione tra creatori e fruitor
 
 ## Conclusioni
 
-Consolidando la comunicazione con GitHub Discussions, cerchiamo di mitigare la frammentazione delle informazioni, facilitare il percorso dell'utente e rafforzare i legami all'interno della nostra comunità.  GitHub Discussions semplifica e accellera la procedura, garantendo soluzioni rapide ed efficaci. 
+Consolidando la comunicazione con GitHub Discussions, cerchiamo di mitigare la frammentazione delle informazioni, facilitare il percorso dell'utente e rafforzare i legami all'interno della nostra comunità.  GitHub Discussions semplifica e accellera la procedura, garantendo soluzioni rapide ed efficaci.
 
 Siamo fiduciosi che questo approccio semplificato stimolerà discussioni fruttuose, idee innovative e crescita collettiva.
 

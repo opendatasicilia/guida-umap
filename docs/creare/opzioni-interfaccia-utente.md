@@ -15,9 +15,9 @@ Possiamo decidere di far visualizzare i segni **+** e **-** della mappa in fase 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè i segni di + e - compaiono in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
-    
+
 ## Visualizza il controllo di ricerca
 
 Possiamo decidere di far visualizzare la funzione di controllo di ricerca di un sito sulla mappa in fase di caricamento.
@@ -25,7 +25,7 @@ Possiamo decidere di far visualizzare la funzione di controllo di ricerca di un 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di ricerca compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di ricerca compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
 
 ## Visualizza il controllo di schermo intero
@@ -34,7 +34,7 @@ Possiamo decidere di far visualizzare la funzione di visualizzazione della mappa
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di schermo intero compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di schermo intero compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
 
 ## Visualizza il controllo per l'incorporamento
@@ -45,21 +45,21 @@ Questa è una funzione importante. Possiamo decidere di far visualizzare la funz
    - **`geojson`**: un formato molto noto che contiene informazioni geografiche che può essere utilizzato, ad esempio, per creare progetti con il software opensource QGIS.
    - **`gpx`**: un formato classico per i dati geografici, utilizzato dai navigatori satellitari, che può essere utilizzato sugli stessi per riportare i dati su dispositivi mobili. Un formato che può essere utilizzato anche con Google map.
    - **`kml`**: il formato dati geografici utilizzato da Google nella sua piatattaforma Google map.
-   
+
 Questi formati disponibili al download sono una vera risorsa preziosa di dati che si prestano a innumerevoli riusi. Può capitare, tuttavia, che il creatore della mappa intende solo far visualizzare la mappa attraverso l'indirizzo URL, ma per vari ragioni non vuole condividere i formati dei dati che alimentano la mappa.
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo per l'incorporamento - condivisione - compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo per l'incorporamento - condivisione - compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
 
 ## Visualizza il controllo di localizzazione
 
-Possiamo decidere di far visualizzare la funzione di controllo della mia localizzazione sulla mappa, attivando servizi di georeferenziazione (gps sullo smartphone ad esempio). 
+Possiamo decidere di far visualizzare la funzione di controllo della mia localizzazione sulla mappa, attivando servizi di georeferenziazione (gps sullo smartphone ad esempio).
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di localizzazione compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di localizzazione compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
 
 ## Visualizza il controllo di misurazione
@@ -68,28 +68,28 @@ Possiamo decidere di far visualizzare la funzione di misurazione della distanza 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di misurazione - righello - compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di controllo di misurazione - righello - compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
 
 ## Mostra il controllo per aprire l'editor di OpenStreetMap
 
-Possiamo decidere di far visualizzare la funzione che permette l'apertura dell'editor di Openstreetmap. 
+Possiamo decidere di far visualizzare la funzione che permette l'apertura dell'editor di Openstreetmap.
 
 !!! quote "da Wikipedia"
 
     *OpenStreetMap è un progetto collaborativo finalizzato a creare mappe del mondo a contenuto libero. Il progetto punta ad una raccolta mondiale di dati geografici, con scopo principale la creazione di mappe e cartografie.*
- 
+
 
 Questa funzione è utile per coloro che sono impegnati ad aggiornare i dati nella piattaforma mondiale.
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di OpenStreetMap compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**==, o è una funzione ==**nascosta**== (cioè l'icona di OpenStreetMap compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
 
 ## Mostra il controllo dei dati per i layer
 
-Possiamo decidere di far visualizzare la funzione che permette di visualizzare tutti i layer (strati) di cui è composta la mappa. I layer della mappa rappresentano dgli stati di contenuti che sono differenziati per tematica, ad esempio in  una mappa della mobilità urbana possiamo avere un layer per le piste ciclabili, uno per le zone pedonali e uno per i percorsi dei bus. **E' consigliabile mostrare l'icona dei layer all'avvio della mappa proprio per comunicare immediatamente all'utente la strutturazione della mappa**.
+Possiamo decidere di far visualizzare la funzione che permette di visualizzare tutti i layer (strati) di cui è composta la mappa. I layer della mappa rappresentano dgli stati di contenuti che sono differenziati per tematica, ad esempio in  una mappa della mobilità urbana possiamo avere un layer per le piste ciclabili, uno per le zone pedonali e uno per i percorsi dei bus. **È consigliabile mostrare l'icona dei layer all'avvio della mappa proprio per comunicare immediatamente all'utente la strutturazione della mappa**.
 
 !!! tip "decidere come viene compiuta la funzione"
 
@@ -111,7 +111,7 @@ Possiamo decidere di far visualizzare la funzione che permette di aggiungere una
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**== o è una funzione ==**nascosta**== (cioè l'icona per aggiungere una mappa come speciale, compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso). 
+    Decidiamo se questa azione si realizza ==**sempre**==, ==**mai**== o è una funzione ==**nascosta**== (cioè l'icona per aggiungere una mappa come speciale, compare in alto a sinistra solo se scorriamo i loghi a sinistra fino a quello della freccia in basso).
 
 
 
@@ -121,16 +121,16 @@ Nel menù di sinistra possiamo decidere di far visualizzare un icona a forma di 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==.
 
 
 ## Abilitare la rotellima del mouse per lo zoom
 
-Possiamo decidere di abilitare la rotellina del mouse per gestire lo zoom in e zoom out della mappa. E' indubbiamente una funzione molto comoda per la consultazione di mappe web interattive.
+Possiamo decidere di abilitare la rotellina del mouse per gestire lo zoom in e zoom out della mappa. È indubbiamente una funzione molto comoda per la consultazione di mappe web interattive.
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==.
 
 
 ## Visualizzare una mappa panoramica
@@ -139,7 +139,7 @@ uMap permette di far visualizzare in basso a destra una piccola mappa panoramica
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==.
 
 
 ## Visualizzare la scala
@@ -148,7 +148,7 @@ Se abilitata questa funzione, verrà visualizzato in basso a sinistra una scala 
 
 !!! tip "decidere come viene compiuta la funzione"
 
-    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==. 
+    Decidiamo se questa azione si realizza semplicemente cliccando su ==**`on`**== o ==**`off`**==.
 
 
 ## Visualizza un panello al caricamento

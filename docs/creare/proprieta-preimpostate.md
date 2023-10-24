@@ -4,7 +4,7 @@
 
 **`tratteggio`**, serve per rendere la polilinea o il poligono tratteggiato, attraverso una lista di numeri separati da virgola che definisce lo schema del tratto e del trattino. Es.: "5, 10, 15".
 
-**`livello di zoom predefinito`**, livelli di zoom per zoom automatici. E' possibile selezionare tra vari valori (sopra e sotto lo zero). Si può configurare il livello di zoom da usare nella fase di consultazione della mappa. E' necessario fare delle prove variando i parametri per rendersi conto dell'effetto prodotto dalal variazione dei valori.
+**`livello di zoom predefinito`**, livelli di zoom per zoom automatici. È possibile selezionare tra vari valori (sopra e sotto lo zero). Si può configurare il livello di zoom da usare nella fase di consultazione della mappa. È necessario fare delle prove variando i parametri per rendersi conto dell'effetto prodotto dalal variazione dei valori.
 
 **`transizioni animate`**, attraverso un pulsanto di `on` e `off` è possibile abilitare/disabilitare le transizioni animante quando è attivata la funzione di presentazione che viene illustrata separatamente come altra funzione disponibile su uMap.
 
