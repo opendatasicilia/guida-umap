@@ -8,7 +8,7 @@ L'immagine di sopra riporta le icone relative alle funzioni attivabili dall'uten
 
 ## Menù delle scelte :material-arrow-decision-outline:
 
-L'elenco del menù di sinistra della mappa fornisce una serie di icone (immagine di sopra) che permettono di fare diverse cose, come di seguito specificato.
+L'elenco del menù di sinistra della mappa fornisce una serie di icone (immagine di sopra) che permettono di fare diverse cose, come di seguito specificato nell'elenco.
 
 ```
 ├─ Ingrandisci e diminuisci mappa
@@ -31,6 +31,6 @@ Di seguito si può notare come si definiscono le impostazioni dei vari servizi i
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/opzioni-interfaccia-utente.PNG)
 
-La tendenza può essere quella di mostrare all'utente il maggior numero di servizi, proprio per questa utilità che uMap offre nella sua piattaforma web. I servizi sono tutti utili e fruirne pienamente rappresenta un vantaggio per tutti.
+La tendenza può essere quella di mostrare all'utente visualizzatore il maggior numero di servizi, proprio per questa utilità che uMap offre nella sua piattaforma web. I servizi sono tutti utili e fruirne pienamente rappresenta un vantaggio per chi visualizza la mappa.
 
-Questo aspetto specifico riguarda la fase di creazione della mappa e viene ampiamente trattato nella sezione ["**Creare**"](https://opendatasicilia.github.io/guida-umap/creare/), ma si ritiene utile farne un accenno anche qui nella sezione "**Consultare**".
+Questo aspetto specifico riguarda la fase di ==creazione== della mappa e viene ampiamente trattato nella sezione ["**Creare**"](https://opendatasicilia.github.io/guida-umap/creare/), ma si ritiene utile farne un accenno anche qui nella sezione "**Consultare**" per comprendere subito perchè l'utente può visualizzare solo una serie o tutte le funzionalità previste da uMap.
