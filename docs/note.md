@@ -34,7 +34,7 @@
 
 [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts)
 
-> [!NOTE]
+> **Note**
 > Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. Highlights information that users should take into account, even when skimming. 
 
 
