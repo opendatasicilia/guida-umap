@@ -40,7 +40,7 @@ Descrivere brevemente a cosa serve il layer creato.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e8/Densita_Veneto.png) <sup>Mappa di densità</sup>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_2715_Christianity_Anglican_Persons.svg/1280px-Australian_Census_2011_demographic_map_-_Australia_by_SLA_-_BCP_field_2715_Christianity_Anglican_Persons.svg.png) <sup>Mappa coropletica</sup>
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/mappa-cloropetica.PNG) <sup>Mappa coropletica</sup>
 
 ## Mostra al caricamento
 
