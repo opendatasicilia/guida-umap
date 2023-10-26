@@ -21,7 +21,7 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" :octicons-book-24: e 
     
     :material-facebook: [Facebook](https://www.facebook.com/groups/opendatasicilia/)
     
-    :fontawesome-brands-x-twitter: [Telegram](http://twitter.com/opendatasicilia)
+    :fontawesome-brands-x-twitter: [Twitter](http://twitter.com/opendatasicilia)
     
     :simple-telegram: [Gruppo Telegram](https://t.me/opendatasicilia)
     
