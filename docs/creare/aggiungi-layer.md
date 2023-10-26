@@ -52,7 +52,7 @@ Impostato su **`off`** nasconde il layer dalla presentazione, dal browser dati, 
 
 ## Show this layer in the caption
 
-==inserire testo==
+Se abilitata la funzione, al caricamento della mappa nella pagina web, nel pannello laterale destro, oltre alle informazioni relative al nome e descrizione della mappa, verrà visualizzato il layer con il relativo titolo e colore. Sicuramente è una funzione comoda perchè oltre ai metadati generali sulla mappa vengono visualizzati i layer che compongono la mappa. E' da ricordare che i layers sono visibili anche nel menù di sinistra della mappa uMap per l'utente visualizzatore.
 
 
 ## Proprietà della geometria
