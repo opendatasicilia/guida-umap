@@ -191,4 +191,4 @@ Attivando questa funzione (**`on`**) viene visualizzata un piccolo footer con il
 
 ## Visualizzare le etichette dei menù
 
-==Inserire testo==
+Nel footer, attivando questa funzione, è possibile far visualizzare il link "Informazioni" che se cliccato apre un pannello laterale a destra con riportate le informazioni della mappa: titolo mappa, descrizione mappa, layers della mappa, ringraziamenti e metadati.
