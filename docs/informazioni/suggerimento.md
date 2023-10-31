@@ -8,4 +8,4 @@ In questa <kbd>issue</kbd> è possibile tracciare domande/suggerimenti e automat
 
 !!! Info "account su GitHub"
 
-    Al fine di compilare i campi di testo della <kbd>issue</kbd> , il lettore dovrà autenticarsi su [**GitHub**](https://github.com/) con il suo profilo.
+    Al fine di compilare i campi di testo della <kbd>issue</kbd> , il lettore dovrà autenticarsi su [**GitHub**](https://github.com/) con il suo profilo. Se non si possiede un profilo è possibile registrarsi gratuitamente.
