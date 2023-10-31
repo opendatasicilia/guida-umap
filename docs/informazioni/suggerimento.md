@@ -6,4 +6,6 @@ In ogni pagina della guida, alla fine del testo trovi un link "**💡 Hai un sug
 
 In questa <kbd>issue</kbd> è possibile tracciare domande/suggerimenti e automaticamente verrà inviata un email ai redattori della guida, che torneranno nella pagina dell'<kbd>issue</kbd> creata per fornire la risposta o il chiarimento.
 
-Al fine di compilare i campi di testo della <kbd>issue</kbd>, il lettore dovrà autenticarsi su [**GitHub**](https://github.com/) con il suo profilo.
+!!! Info "account su GitHub"
+
+    Al fine di compilare i campi di testo della <kbd>issue</kbd>, il lettore dovrà autenticarsi su [**GitHub**](https://github.com/) con il suo profilo.
