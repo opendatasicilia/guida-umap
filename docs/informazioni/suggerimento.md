@@ -11,3 +11,8 @@ In questa <kbd>issue</kbd> è possibile tracciare domande/suggerimenti e automat
     Al fine di compilare i campi di testo della <kbd>issue</kbd> , il lettore dovrà autenticarsi su [**GitHub**](https://github.com/) con il suo profilo. Se non si possiede un profilo è possibile registrarsi gratuitamente.
 
     GitHub è una piattaforma di servizio basato su cloud per lo sviluppo di software ed il controllo della versione utilizzando Git, che consente agli sviluppatori di archiviare e gestire il proprio codice. Fornisce il controllo della versione distribuita di Git oltre al controllo degli accessi, al tracciamento dei bug, alle richieste di funzionalità software, alla gestione delle attività, all'integrazione continua e ai wiki per ogni progetto. (Wikipedia)
+
+
+??? Github è ↓
+
+    GitHub è una piattaforma di servizio basato su cloud per lo sviluppo di software ed il controllo della versione utilizzando Git, che consente agli sviluppatori di archiviare e gestire il proprio codice. Fornisce il controllo della versione distribuita di Git oltre al controllo degli accessi, al tracciamento dei bug, alle richieste di funzionalità software, alla gestione delle attività, all'integrazione continua e ai wiki per ogni progetto. (Wikipedia)
