@@ -16,6 +16,9 @@ theme:
   logo: img/logo.png
   palette:
     primary: blue
+    toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
   features:
     - navigation.footer
     - content.action.edit
