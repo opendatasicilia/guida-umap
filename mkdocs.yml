@@ -3,7 +3,7 @@ site_url: https://opendatasicilia.github.io/guida-umap/
 site_description: Una guida per imparare ad utilizzare uMap
 
 copyright: 'Un progetto della comunità <a href="https://opendatasicilia.it/"><b>OpenDataSicilia</b></a> 
-            </br><img src="https://img.shields.io/badge/Autori-Andrea_Borruso,_Ciro_Spataro,_Giovan_Battista_Vitrano-darkgreen.svg">'
+            </br><img src="https://img.shields.io/badge/Autori-Andrea_Borruso,_Ciro_Spataro,_Giovan_Battista_Vitrano-blue.svg">'
 
 
 repo_url: https://github.com/opendatasicilia/guida-umap
