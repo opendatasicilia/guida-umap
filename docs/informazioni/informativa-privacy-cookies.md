@@ -1,4 +1,4 @@
-# Informativa privacy estesa - cookies
+# Informativa privacy estesa - cookies  :fontawesome-solid-universal-access:
 
 In linea con la legislazione Europea (GDPR), è fondamentale che ogni utente del sito web comprenda cosa sono i cookie e per quale motivo vengono utilizzati, in modo che gli utenti stessi possano decidere consapevolmente se accettarne l’utilizzo o no sui loro dispositivi.
 
