@@ -181,7 +181,8 @@ Questa funzione serve per decidere come far visualizzare come vista predefinita.
 
 ## Visualizzare la finestra di pop up a piè di pagina
 
-==Inserire testo==
+Questa funzione abilita lo scorrimento da un punto all'altro della mappa. Ogni punto della mappa cliccato presenterà delle frecce a destra e sinistra che rimandano ai punti in avanti o indietro.
+Chi scrive questa guida non ritiene questa funzione di particolare utilità per l'utente fruitore della mappa.
 
 
 ## Visualizzare una didascalia
