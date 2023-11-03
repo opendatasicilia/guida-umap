@@ -16,7 +16,7 @@ La particolarità di `uMap` consiste nel fatto che si presta perfettamente sia a
 <div align="center"><img src="https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG"></div>
 
 
-## Mappa e dataset nello stesso servizio :octicons-heart-fill-24:{ .heart }
+## Mappa e dataset nello stesso servizio :material-map-search: :octicons-database-16: 
 
 `uMap` soddisfa due necessità:
 
