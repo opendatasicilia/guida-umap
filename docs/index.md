@@ -30,9 +30,9 @@ Per questo motivo il servizio online di `uMap` è più di una visualizzazione di
 
 Questa guida rappresenta uno strumento di approfondimento e facilitazione per la creazione di mappe sul web:
 
-* per supportare chi volesse iniziare a creare mappe attraverso `uMap`,
-* per diffondere la cultura delle mappe web interattive,
-* per diffondere la cultura dei dati in formato aperto,
+* per supportare chi volesse iniziare a creare mappe attraverso `uMap`;
+* per diffondere la cultura delle mappe web interattive;
+* per diffondere la cultura dei dati in formato aperto, da usare per creare mappe online;
 * perché [ci piace](https://opendatasicilia.github.io/guida-umap/informazioni/#chi-siamo) :blue_heart: fare guide su questi argomenti.
 
 
