@@ -1,5 +1,7 @@
 # Note utili per la redazione della guida
 
+[https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/note](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/note)
+
 ## Admonition
 
 [**Admonition**](https://squidfunk.github.io/mkdocs-material/reference/admonitions/)
