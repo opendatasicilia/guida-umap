@@ -33,7 +33,7 @@ Questa guida rappresenta uno strumento di approfondimento e facilitazione per la
 * per supportare chi volesse iniziare a creare mappe attraverso `uMap`,
 * per diffondere la cultura delle mappe web interattive,
 * per diffondere la cultura dei dati in formato aperto,
-* perché [ci piace](https://opendatasicilia.github.io/guida-umap/informazioni/#chi-siamo) fare guide.
+* perché [ci piace](https://opendatasicilia.github.io/guida-umap/informazioni/#chi-siamo) :blue_heart: fare guide.
 
 
 ## Struttura della guida :material-toy-brick-search:
