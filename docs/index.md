@@ -20,8 +20,8 @@ La particolarità di `uMap` consiste nel fatto che si presta perfettamente sia a
 
 `uMap` soddisfa due necessità:
 
-   1. visualizzare informazioni in una mappa interattiva nel web;
-   2. conservare un archivio di dataset in formato aperto che alimentano la mappa.
+   1. **visualizzare informazioni in una mappa interattiva nel web**;
+   2. **conservare un archivio di dataset in formato aperto che alimentano la mappa**.
 
 Per questo motivo il servizio online di `uMap` è più di una visualizzazione di mappe, esso rappresenta anche un enorme database di dati in formato aperto, prontamente scaricabili e riusabili a condizione di rispettare le licenze associate e tracciate nel progetto online.
 
