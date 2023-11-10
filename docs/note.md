@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+---
+
+
 # Note utili per la redazione della guida
 
 [https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/note](https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/note)
