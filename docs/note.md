@@ -59,7 +59,7 @@ hide:
 
 <span class="footer_small" style="color: #ff0000;"><strong>Schmettau-map of Sicily</strong> (1719-1721) <span style="color: #333333;">by</span> <a href="https://mapire.eu" target="_blank" rel="noopener">mapire.eu</a>&nbsp;<span style="color: #000000;">(zoom in e out).</span></span>
 
-### Iframe di un sito MKdocs (height="600")
+### **Iframe di un sito MKdocs (height="650")**
 
-<iframe width="100%" height="600" src="https://ondata.github.io/guidaPraticaPubblicazioneCSV/" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="650" src="https://ondata.github.io/guidaPraticaPubblicazioneCSV/" frameborder="0" allowfullscreen></iframe>
 
