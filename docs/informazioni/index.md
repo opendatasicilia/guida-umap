@@ -36,3 +36,7 @@ Abbiamo avviato il lavoro per realizzare questa guida a metà ottobre 2023. Il l
    - soprattutto con i post del blog, dove vengono illustrate ricette da preparare su uMap;
    - con gli aggiornamenti - ove necessario - degli argomenti che sono tratti nelle varie pagine della guida.
 
+
+## Questa guida è realizzata con
+
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
