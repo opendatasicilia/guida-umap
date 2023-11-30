@@ -1,4 +1,4 @@
-# Creare una mappa
+# Creare una mappa  :man_construction_worker:
 
 Questa sezione è dedicata alle cose da fare per creare e arricchire una mappa con uMap.
 
