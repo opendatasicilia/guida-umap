@@ -29,7 +29,7 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" :octicons-book-24: e 
 
 
 
-## Quando abbiamo iniziato a fare la guida  :simple-materialformkdocs:
+## Quando abbiamo iniziato a fare la guida  :material-timetable:
 
 Abbiamo avviato il lavoro per realizzare questa guida a metà ottobre 2023. Il lavoro prosegue nel tempo:
 
@@ -37,6 +37,6 @@ Abbiamo avviato il lavoro per realizzare questa guida a metà ottobre 2023. Il l
    - con gli aggiornamenti - ove necessario - degli argomenti che sono tratti nelle varie pagine della guida.
 
 
-## Questa guida è realizzata con  :octicons-file-code-24:
+## Questa guida è realizzata con  :simple-materialformkdocs:
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
