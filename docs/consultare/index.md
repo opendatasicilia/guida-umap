@@ -1,4 +1,4 @@
-# Consultare una mappa
+# Consultare una mappa  :woman_technologist_tone1:
 
 Questa sezione descrive cosa può fare l'utente che visualizza la mappa sul broser di navigazione.
 
