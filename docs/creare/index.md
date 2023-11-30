@@ -4,14 +4,14 @@ Questa sezione è dedicata alle cose da fare per creare e arricchire una mappa c
 
 uMap permette una serie estesa di funzioni per la personalizzazione di una mappa, conoscere nel dettaglio tutte le funzioni permette a chiunque di padroneggiare lo strumento per generare mappe ad alto effetto visivo e con ricchezza di dettagli.
 
-## Accedere a uMap con gli account di altri servizi web
+## Accedere a uMap con gli account di altri servizi web  :material-login:
 
 Per accedere a uMap per creare una mappa è necessario utilizzare uno dei seguenti account:
 
-   - **GitHub**,
-   - **Twitter (X)**,
-   - **OpenStreetMap**
-   - **Bitbucket**.
+   - **GitHub** :simple-github:
+   - **Twitter (X)** :simple-x: 
+   - **OpenStreetMap** :simple-openstreetmap:
+   - **Bitbucket**  :simple-bitbucket:
 
 !!! tip "accedere sempre con lo stesso account"
 
@@ -20,7 +20,7 @@ Per accedere a uMap per creare una mappa è necessario utilizzare uno dei seguen
 
     ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-dashboard.PNG)
 
-## I principali strumenti
+## I principali strumenti  :tools:
 
 **Modifica le proprietà della mappa** è il pannello con il quale cominciare a lavorare.
 
@@ -42,13 +42,13 @@ I principali strumenti per la creazione di una mappa sono di seguito elencati:
 └─ Azioni avanzate
 ```
 
-### Nome della mappa
+### Nome della mappa  :pencil:
 
 Innanzitutto dobbiamo decidere il nome che apparirà nell'URL della mappa. È consigliabile dare un nome quanto più sintetico possibile.
 
 Se decidiamo di cambiare successivamente il nome della mappa che abbiamo dato inizialemente, non c'è problema perchè anche digitando l'URL del precedente nome della mappa, uMap riporterà autimaticamente (redirect) all'ultimo URL derivante dall'ultimo nome che abbiamo dato.
 
-### Descrizione
+### Descrizione :material-script-text-play-outline:
 
 In questo campo possiamo editare tutto il testo che riteniamo necessario. Oltre al testo è possibile inserire link, iframe e immagini. Un editor di uMap ci guida in questa fase
 
