@@ -29,7 +29,7 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" :octicons-book-24: e 
 
 
 
-## Quando abbiamo iniziato a fare la guida  :material-timetable:
+## Quando abbiamo iniziato a fare la guida  :simple-materialformkdocs:
 
 Abbiamo avviato il lavoro per realizzare questa guida a metà ottobre 2023. Il lavoro prosegue nel tempo:
 
