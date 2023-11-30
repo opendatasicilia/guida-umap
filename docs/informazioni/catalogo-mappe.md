@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Catalogo mappe su uMap a cura di OpendataSicilia
+# Catalogo mappe su uMap a cura di OpendataSicilia :fontawesome-solid-list-ul:
 
 Un vasto catalogo di mappe è stato creato dalla comunità di OpendataSicilia.
 
