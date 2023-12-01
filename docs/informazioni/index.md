@@ -1,6 +1,6 @@
 ---
 title: Informazioni
-icon: octicons-info-16
+icon: information_source
 ---
 
 # Informazioni  :information_source:
