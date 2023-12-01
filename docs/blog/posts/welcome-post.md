@@ -16,7 +16,7 @@ Il blog è uno strumento con il quale possiamo anche costruire ricette per migli
 Per aumentare la possibilità di interazione con i fruitori della guida è stato creato un sistema di "issues"
 
 
-## ISSUES
+## ISSUES  :octicons-issue-tracks-24:
 
 Con le issues gli utenti della guida possono inviare suggerimenti :fontawesome-solid-person-chalkboard: allo staff o domande  :material-head-question: in merito agli argomenti trattati nelle varie pagine.
 
