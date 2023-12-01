@@ -1,4 +1,4 @@
-# Ringraziamenti
+# Ringraziamenti  :fontawesome-solid-handshake-simple:
 
 La sezione "ringraziamenti" permette di editare:
 
