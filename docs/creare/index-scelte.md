@@ -1,4 +1,4 @@
-# Scelte iniziali da fare per la costruzione di una mappa
+# Scelte iniziali da fare per la costruzione di una mappa  :fontawesome-solid-check-double:
 
 ![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/menu-destra-umap.PNG)
 
@@ -8,7 +8,7 @@ Dal menù di destra sul pannello di controllo di uMap possiamo intuire che abbia
   2. **caricare, da fonti esterne, dataset in formato <kbd>csv</kbd> , <kbd>geojson</kbd> , <kbd>kml</kbd> , <kbd>gpx</kbd>**.
 
 
-## Inserire manualmente punti di interesse, polilinee e poligoni
+## Inserire manualmente punti di interesse, polilinee e poligoni  :writing_hand:
 
 Questa scelta è effettuata quando dobbiamo tracciare sul territorio delle informazioni di cui siamo già in possesso e che conosciamo a livello visuale.
 
@@ -19,13 +19,13 @@ L'inserimento manuale di punti, polilinee e poligoni, quindi, è utilizzato quan
 Questo tipo di uso della mappa è molto diffuso su uMap e soddisfa tante necessità da parte degli utenti.
 
 
-## Caricare, da fonti esterne, ==dataset== in formato <kbd>csv</kbd>, <kbd>geojson</kbd>, <kbd>kml</kbd>, <kbd>gpx</kbd>
+## Caricare, da fonti esterne, ==dataset== in formato <kbd>csv</kbd>, <kbd>geojson</kbd>, <kbd>kml</kbd>, <kbd>gpx</kbd>  :octicons-upload-16:
 
 Il caricamento di dataset in formato aperto rappresenta un servizio di enorme utilità per tanti utenti.
 
 Chi è in possesso di dataset in questi formati, caricandoli su uMap attraverso l'uso dello strumento a forma di freccia verso l'alto (nel menù di destra) vedrà rappresentato geograficamente un'elevata quantità di informazioni. Si pensi ai navigatori GPS che generano file in formato <kbd>gpx</kbd>, questi tipi di file possono essere caricati su uMap per visulizzare percorsi e punti di interessi precedentemente tracciati.
 
-### Il formato <kbd>csv</kbd>
+### Il formato <kbd>csv</kbd>  :fontawesome-solid-file-csv:
 
 **CSV (Comma Separated Values): valori separati da virgola**
 
