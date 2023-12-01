@@ -6,13 +6,13 @@ In alto nel menù di destra abbiamo 3 icone: ==**punti**==, ==**polilinee**== e 
 
 Possiamo utilizzare questi 3 strumenti per tracciare tre diversi tipi di informazioni sul territorio. 
 
-## Punto di interesse
+## Inserimento di punto di interesse :material-map-marker:
 
 Cliccando prima sull'icona del punto di interesse, poi possiamo cliccare con il mouse nel punto preciso della mappa in cui lo vogliamo posizionare, una volta effettuata questa azione si aprirà una finestra nella quale possiamo inserire un titolo al punto che abbiamo posizionato, e anche una descrizione.
 
 Nella descrizione possiamo usare carattere normale, *italico*, **grassetto**, inserire link, immagini e anche video, attraverso la funzione di "embedding" (incorporare). 
 
-### Inserimento di video
+### Inserimento di video  :material-video:
 
 Questa funzione risulta di grande utilità in quanto in un punto in cui descriviamo qualcosa possiamo approfondire l'interesse sul sito fornendo un video dedicato. Di seguito si riporta un esempio di inserimento di video in un punto.
 
@@ -31,7 +31,7 @@ dove
 **`250`** è la dimensione della larghezza del video dentro la finestra che si apre quando l'utente clicca sul punto per visualizzare il video.
 
 
-### Inserimento di link, immagini e iframe
+### Inserimento di link, immagini e iframe  :material-link:  :octicons-image-24: 
 
 Per l'inserimento di link immagini e iframe basta seguire le indicazioni che vengono visualizzate nella finestra, cliccando nel simbolo del punto interrogativo (**?**):
 
@@ -51,7 +51,7 @@ Per l'inserimento di link immagini e iframe basta seguire le indicazioni che ven
 
 
 
-## Polilinea 
+## Inserimento di polilinea :material-vector-polyline-plus:
 
 La polilinea è utilizzata quando c'è la necessità di tracciare sul territorio un percorso preciso.
 
@@ -59,7 +59,7 @@ Anche nel caso della polilinea valgono le possibilità di inserire (abbinate all
 
 
 
-## Poligono
+## Inserimento di poligono :material-shape-polygon-plus:
 
 Il Poligono rappresenta un area che vogliano tracciare sul territorio.
 
