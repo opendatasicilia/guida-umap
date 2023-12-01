@@ -1,4 +1,4 @@
-# Proprietà predefinite della forma
+# Proprietà predefinite della forma  :material-shape:
 
 In questa sezione vengono trattati tutti i parametri che è possibile modificare concernenti la forma dei punti (marcatori), delle polilinee e dei poligoni.
 
