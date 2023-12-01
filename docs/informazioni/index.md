@@ -1,8 +1,3 @@
----
-title: Informazioni
-icon: information_source
----
-
 # Informazioni  :information_source:
 
 ## Chi siamo :fontawesome-solid-people-group:
