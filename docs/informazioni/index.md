@@ -8,6 +8,10 @@ Nella realizzazione di questa guida siamo stati:
   - [Ciro Spataro](https://cirospat.readthedocs.io/it/latest/), che ha colto il via,
   - [Giovan Battista Vitrano](https://coseerobe.it/), che con uMap ci prepara anche le ricette.
 
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/4.PNG) 
+
+(il primo a sx è Salvatore Fiandaca che non ha partecipato alla redazione di questa guida ma che è sempre insieme ad Andrea, Ciro e Gianni per tante iniziativa di OpendataSicilia)
+
 Siamo tutti appassionati di mappe ma anche di "*spiegoni*" :octicons-book-24: e facciamo parte della comunità di [OpendataSicilia](https://opendatasicilia.it/) :octicons-share-android-16:
 
 
