@@ -1,3 +1,8 @@
+---
+title: Informazioni
+icon: octicons-info-16
+---
+
 # Informazioni  :information_source:
 
 ## Chi siamo :fontawesome-solid-people-group:
