@@ -1,4 +1,4 @@
-# Azioni avanzate
+# Azioni avanzate  :material-arrow-down-right:
 
 In questa sezione è possibile effettuare le seguenti azioni.
 
