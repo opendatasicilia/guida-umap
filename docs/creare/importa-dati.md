@@ -12,7 +12,7 @@ uMap permette l'importazione di dati da fonti esterne in più formati:
 
 Questa funzione permete di realizzare mappe in breve tempo utilizzando formati già disponibili all'utente.
 
-## Scegli file
+## Scegli file  :file_folder:
 
 In questa parte del pannello di controllo di "importa dati" possiamo caricare un file nei formati sopra elencati, selezionandolo dal PC.
 
@@ -20,7 +20,7 @@ Una volta selezionato il file, nel menù "**scegli il foramto dati**" comparirà
 
 Di seguito si riportanto le proprietà di ogni formato che è possibile importare su uMap attraverso questa apposita funzionalità.
 
-### GeojSON
+### GeojSON 
 Tutte le proprietà sono state importate.
 
 ### GPX
@@ -36,16 +36,16 @@ Valori separati da virgola, tabulatore o punto e virgola. Il sistema di riferime
 Importa tutti i dati di uMap compresi layer e le impostazioni.
 
 
-## Seleziona su quale livello fare l'importazione
+## Seleziona su quale livello fare l'importazione  :fontawesome-solid-layer-group:
 
 Quando importiamo un dataset dall'esterno possiamo decidere in quale layer inserirlo. Questa funzione serve allo scopo.
 
-### Sostituisci il contenuto del layer
+### Sostituisci il contenuto del layer  :arrows_clockwise:
 
 Se ad esempio nel "layer 1" ci sono dati già inseriti, e vogliamo importare dall'esterno un dataset nello stesso layer, se selezioniamo il campo "**Sostituisci il contenuto del layer**" cancelleremo tutto quello che c'era prima del caricamento.
 
 
-## Aggiungi un URL qui
+## Aggiungi un URL qui  :material-web:
 
 Nel caso il nostro dataset si trova in un servizio web, come ad esempio un ==**Google spreadsheet**==, possiamo importare l'URL fornito da Google su questo campo, in questo modo si creerà un collegamento tra due servizi web: Google spreadsheet e uMap. 
 
@@ -60,7 +60,7 @@ Nel caso il nostro dataset si trova in un servizio web, come ad esempio un ==**G
     7. ogni aggiornamento operato nel file di Google spreadsheet verrà riportato automaticamente sulla visualizzazione della mappa uMap.
 
 
-## Importa
+## Importa  :material-import:
 
 Una volta effettuate le operazioni sopra descritte possiamo cliccare su **importa** per dare corso al caricamento dati su uMap alternativamente con le due modalità:
 
