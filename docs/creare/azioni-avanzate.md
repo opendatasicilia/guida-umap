@@ -2,19 +2,19 @@
 
 In questa sezione è possibile effettuare le seguenti azioni.
 
-## Cancella
+## Cancella  :material-delete:
 
 Cancella la mappa. Tutto quello che abbiamo inserito nella mappa andrà perso. È bene pensarci un po su prima di scegliere questa azione.
 
-## Vuoto
+## Vuoto  :material-layers-minus:
 
 Elimina tutti i layer della mappa.
 
-## Clona
+## Clona  :octicons-repo-clone-24:
 
 Viene creata una copia uguale della mappa in un altro insirizzo URL.
 
-## Download
+## Download  :octicons-download-24:
 
 Viene aperto il pannello per il downaload dei dati. È possibile visualizzare:
 
