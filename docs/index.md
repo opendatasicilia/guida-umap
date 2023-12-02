@@ -47,7 +47,7 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su t
 
 !!! tip "URL breve della guida" 
 
-    [**==bit.ly/guida-umap==**](https://bit.ly/guida-umap) 
+    [**bit.ly/guida-umap**](https://bit.ly/guida-umap) 
 
 
 
