@@ -45,9 +45,10 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su t
   3. **Blog**. Articoli e ricette che è possibile realizzare con `uMap`, e che rendono la mappa ricca di informazioni da trasmettere in forma visuale all'utente.
 
 
-!!! tip "URL breve della guida" 
 
-    [**bit.ly/guida-umap**](https://bit.ly/guida-umap) 
+## URL breve della guida :material-web:
+
+[**bit.ly/guida-umap**](https://bit.ly/guida-umap)
 
 
 
