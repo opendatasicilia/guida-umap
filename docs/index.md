@@ -51,9 +51,11 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su t
 [**bit.ly/guida-umap**](https://bit.ly/guida-umap)
 
 
+## `uMap` developer documentation
 
-!!! note "`uMap` developer documentation" 
+https://img.shields.io/badge/developer-grey?style=for-the-badge
 
-    Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server. E' il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai propri dipendenti. 
+Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server. E' il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai propri dipendenti. 
+
 
     
