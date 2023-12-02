@@ -1,4 +1,4 @@
-# Blog & Ricette  :material-newspaper-variant-outline:
+# Blog & Ricette
 
 ## Articoli e ricette sulle mappe di uMap
 
