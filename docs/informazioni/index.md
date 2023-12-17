@@ -8,9 +8,17 @@ Nella realizzazione di questa guida siamo stati:
   - [Ciro Spataro](https://cirospat.readthedocs.io/it/latest/), che ha colto il via,
   - [Giovan Battista Vitrano](https://coseerobe.it/), che con uMap ci prepara anche le ricette.
 
-![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/4.PNG) 
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/4.PNG)
 
-(il primo a sx è Salvatore Fiandaca che non ha partecipato alla redazione di questa guida ma che è sempre insieme ad Andrea, Ciro e Gianni per tante iniziative di OpendataSicilia)
+(il primo a sx è [Salvatore Fiandaca](https://pigrecoinfinito.com/) che non ha partecipato alla redazione di questa guida ma che è sempre insieme ad Andrea, Ciro e Gianni per tante iniziative di OpendataSicilia)
+
+---
+
+!!! tip "Grazie Ciro"
+
+    Il gruppo di lavoro vuole sottolineare il contributo che ha dato **Ciro Spataro**, perché è stato veramente ampio. Ha scritto più del 90% dei testi della prima *release* della guida.
+
+---
 
 Siamo tutti appassionati di mappe ma anche di "*spiegoni*" :octicons-book-24: e facciamo parte della comunità di [OpendataSicilia](https://opendatasicilia.it/) :octicons-share-android-16:
 
@@ -20,15 +28,15 @@ Siamo tutti appassionati di mappe ma anche di "*spiegoni*" :octicons-book-24: e 
     ![](https://i0.wp.com/opendatasicilia.it/wp-content/uploads/2021/11/logo-e1639380885326.png)
 
     OpendataSicilia e’ una iniziativa civica che si propone di far conoscere e diffondere la cultura dell’`open government` e le prassi dell’`open data` nel nostro territorio e aprire una discussione pubblica partecipata. Siamo un gruppo di cittadini con diverse storie, competenze, professioni. Siamo accomunati dalla genuina volontà di contribuire a migliorare la qualità della vita della nostra comunità. Lo vogliamo fare con spirito di collaborazione e concretezza.
-    
+
     :fontawesome-solid-blog: [Blog](http://opendatasicilia.it)
-    
+
     :material-facebook: [Facebook](https://www.facebook.com/groups/opendatasicilia/)
-    
+
     :fontawesome-brands-x-twitter: [Twitter](http://twitter.com/opendatasicilia)
-    
+
     :simple-telegram: [Gruppo Telegram](https://t.me/opendatasicilia)
-    
+
     :material-email-newsletter: [Newsletter](http://eepurl.com/bPWYdj)
 
 

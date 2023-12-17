@@ -6,17 +6,19 @@ hide:
 
 # **Guida alla consultazione e creazione di una mappa sulla piattaforma web di `uMap`** :map:
 
-[**`uMap`**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare mappe georerefenziate interattive. 
+[**`uMap`**](https://umap.openstreetmap.fr/it/) è uno dei servizi più efficaci sul web per consultare e creare **mappe interattive**.
 Il servizio è totalmente gratuito e molto ricco di personalizzazioni.
-Recentemente `uMap` ha rinnovato la propria piattaforma, migliorando l'interfaccia utente e la relativa esperienza d'uso, e inserendo nuove funzionalità che arricchiscono l'elenco delle personalizzazioni.
+Recentemente `uMap` ha rinnovato la propria piattaforma, migliorando l'interfaccia utente e la relativa esperienza d'uso, e inserendo nuove funzionalità che arricchiscono l'elenco delle personalizzazioni.<br>
 Ad oggi la piattaforma online ospita un numero elevatissimo di mappe create da utenti di tutto il mondo, il campo "cerca" permette di trovare mappe tra le più utili, incredibili e strane.
 
 La particolarità di `uMap` consiste nel fatto che si presta perfettamente sia all'utente "evoluto" creatore di mappe, cioè con esperienza consolidata nel campo GIS, che all'utente "principiante" con nessuna o poca esperienza di georeferenziazione di dati. Questo aspetto è importante per tanti utenti che hanno la necessità di rappresentare dati geografici in una mappa.
 
+![](img/umap-homepage.PNG)
+
 <div align="center"><img src="https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-homepage.PNG"></div>
 
 
-## Mappa  :material-map-search: e dataset :octicons-database-16: nello stesso servizio   
+## Mappa  :material-map-search: e dataset :octicons-database-16: nello stesso servizio
 
 `uMap` soddisfa due necessità:
 
@@ -35,6 +37,9 @@ Questa guida rappresenta uno strumento di approfondimento e facilitazione per la
 * per diffondere la cultura dei dati in formato aperto per creare mappe online;
 * perché [ci piace](https://opendatasicilia.github.io/guida-umap/informazioni/#chi-siamo) :blue_heart: fare guide su questi argomenti.
 
+!!! note "Non vogliamo sostituire altre guide già esistenti"
+
+    Ci sono già [diverse guide](https://wiki.openstreetmap.org/wiki/UMap#Feedback_and_help). Questa l'abbiamo scritta a integrazione e per seguire le necessità che avevamo noi da utenti.
 
 ## Struttura della guida :material-toy-brick-search:
 
@@ -53,13 +58,13 @@ La guida è strutturata in maniera tale da offrire informazioni dettagliate su t
 
 ## `uMap` developer documentation  :material-developer-board:
 
-Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server. 
+Il team di uMap ha creato un [sito di documentazione](https://umap-project.readthedocs.io/en/master/) nel quale vengono illustrate le procedure per coloro che desiderano installare e configurare uMap sui propri server.
 
 !!! info "nota"
 
-    E' il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai propri dipendenti.
-
- 
+    È il caso di aziende o pubbliche amministrazioni che vogliono dare un servizio personalizzato ai propri dipendenti.
 
 
-    
+
+
+
