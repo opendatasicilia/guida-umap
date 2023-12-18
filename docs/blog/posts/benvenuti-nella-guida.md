@@ -2,7 +2,7 @@
 date: 2023-12-21
 authors: [cirospat]
 categories:
-  - General
+  - Welcome
 ---
 
 # 4 giorni a Natale, vi facciamo un regalo: una guida per visionare e creare mappe con uMap
