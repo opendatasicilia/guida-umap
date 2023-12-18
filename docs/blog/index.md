@@ -1,4 +1,6 @@
 # Blog & Ricette
+<style> .md-nav__item .md-nav__link--active {    display: none;}</style>
+
 
 ## Articoli e ricette sulle mappe di uMap
 
