@@ -34,7 +34,20 @@ theme:
 
 plugins:
   - search
-  - blog
+  - blog:
+      authors_file: blog/.authors.yml
+      post_url_format: "{date}/{slug}"
+      post_slugify_separator: "-"
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+      post_excerpt: optional
+      archive_name: Archivio
+      categories_slugify_separator: "-"
+      categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
 
 nav:
   - Home: index.md
