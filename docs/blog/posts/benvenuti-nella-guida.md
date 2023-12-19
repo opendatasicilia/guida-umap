@@ -7,6 +7,9 @@ categories:
 
 # 4 giorni a Natale, vi facciamo un regalo: una guida per visionare e creare mappe con uMap
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_YMjnQqDTk?si=jlU0hQziYOQS3sEh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 Non vogliamo assolutamente prendere il posto di Babbo Natale ma vogliamo fare un regalo a modo nostro e secondo le nostre passioni…
 
 [**uMap**](https://umap.openstreetmap.fr/it/) è una delle più ricche piattaforme online per la visualizzazione e la creazione di mappe basate su [OpenStreetMap](https://www.openstreetmap.org/#map=14/38.1216/13.3535).
