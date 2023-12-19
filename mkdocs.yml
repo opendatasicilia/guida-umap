@@ -81,7 +81,8 @@ nav:
     - Cambia livelli di sfondo: creare/cambia-livelli-sfondo.md
     - Centra mappa: creare/centra-mappa.md
     - Cambia permessi / contributori: creare/cambia-permessi-contributori.md
-  - Blog: blog/index.md
+  - Blog: 
+    - blog/index.md
   - Informazioni:
     - Informazioni: informazioni/index.md
     - Suggerimento: informazioni/suggerimento.md
