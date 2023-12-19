@@ -33,6 +33,8 @@ theme:
 
 
 plugins:
+  - glightbox:
+      auto_caption: true 
   - search
   - blog:
       authors_file: blog/.authors.yml
