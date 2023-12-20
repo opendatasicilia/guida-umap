@@ -52,3 +52,5 @@ Abbiamo avviato il lavoro per realizzare questa guida a metà ottobre 2023. Il l
 ## Questa guida è realizzata con  :simple-materialformkdocs:
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
+Ci teniamo molto a sottolinearlo perchè è uno strumento davvero eccezionale per la documentazione.
