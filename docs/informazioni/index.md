@@ -53,4 +53,6 @@ Abbiamo avviato il lavoro per realizzare questa guida a metà ottobre 2023. Il l
 
 [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
-Ci teniamo molto a sottolinearlo perchè è uno strumento davvero eccezionale per la documentazione di progetti. Un grazie al suo creatore [**Martin Donath**](https://github.com/squidfunk) che si prende cura quotidianamente dello strumento aggiornandolo e rispondendo sempre alle richieste di nuove funzionalità che arrivano da tutte le persone interessate alla documentazione.
+Ci teniamo molto a sottolinearlo perchè è uno strumento davvero eccezionale per la documentazione di progetti. 
+
+:octicons-heart-fill-24:{ .heart } Un grazie al suo creatore [**Martin Donath**](https://github.com/squidfunk) che si prende cura quotidianamente dello strumento aggiornandolo e rispondendo sempre alle richieste di nuove funzionalità che arrivano da tutte le persone interessate alla documentazione.
