@@ -33,6 +33,7 @@ theme:
 
 
 plugins:
+  - social
   - glightbox:
       auto_caption: true 
   - search
