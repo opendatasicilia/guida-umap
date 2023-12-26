@@ -21,6 +21,18 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+         - run: pip install markdown>=3.2
+      - run: pip install mkdocs>=1.2.3      
       - run: pip install mkdocs-material
+      - run: pip install mkdocs-material-extensions>=1.0
+      - run: pip install mkdocs-macros-plugin
+      - run: pip install mkdocs-click
+      - run: pip install mkdocs-table-reader-plugin
+      - run: pip install Pygments>=2.4
+      - run: pip install pymdown-extensions>=9.0
+      - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-tooltips
+      - run: pip install pillow cairosvg
       - run: pip install mkdocs-glightbox
+      - run: pip install mkdocstrings
       - run: mkdocs gh-deploy --force
