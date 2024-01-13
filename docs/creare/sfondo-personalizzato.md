@@ -27,7 +27,7 @@ Il quinto campo permette di editare testo per inserire i metadati dello sfondo m
 
 Infine è disponibile l'attivazione della funzione **formato TMS**.
 
-L'estensione `.tms` rappresenta - tra le altre cose - anche il tipo di file Tableau Map Service File **(.tms)** associato al prodotto Tableau Business Intelligence Software di Tableau Software. Tra le altre caratteristiche, Tableau offre ampie capacità di mappatura dei dati e fornisce una connettività Web Map Service (WMS) integrata. Per la connessione a server cartografici non compatibili con il WMS, viene utilizzato il Tableau Map Service (TMS). Un file `.tms` è un documento `XML` basato su testo che specifica i dettagli di connessione per il TMS.
+Il termine "TMS" si riferisce a "Tile Map Service", un protocollo per la distribuzione di mappe in forma di tile. Le mappe vengono divise in piccoli "tiles", ognuno con una propria posizione e zoom specifici. Questo protocollo è comunemente utilizzato per la visualizzazione di mappe online. Il protocollo TMS è supportato da varie librerie e strumenti GIS, tra cui GDAL.
 
 ## Una fonte di numerosi sfondi per uMap
 
