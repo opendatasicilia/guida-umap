@@ -13,6 +13,9 @@ Nel momento in cui cominciamo a creare una mappa, uMap ci fornisce di default lo
 
     Nel campo dedicato all'URL dello sfondo mappa possiamo inserire vari URL che fanno ocaricare a uMap uno sfondo personalizzato, prelevandolo da una fonte esterna. Una condizione essenziale per rendere efficace pienamente questa funzione è che la parte finale dell'URL deve finire sempre in `/{z}/{x}/{y}.png`. Infatti nel pannello di controllo dello "sfondo personalizzato" è riportato il seguente testo: **Schema supportato: http://{s}.domain.com/{z}/{x}/{y}.png**
 
+Sotto un immagine che illustra le impostazioni per creare lo sfondo personalizzato della mappa:
+
+![](https://raw.githubusercontent.com/opendatasicilia/guida-umap/main/docs/img/umap-sfondo-personalizzato.png)
 
 
 ## Altri due campi per zoom in e out
