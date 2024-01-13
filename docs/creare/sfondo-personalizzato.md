@@ -13,6 +13,11 @@ Nel momento in cui cominciamo a creare una mappa, uMap ci fornisce di default lo
 
     Nel campo dedicato all'URL dello sfondo mappa possiamo inserire vari URL che fanno ocaricare a uMap uno sfondo personalizzato, prelevandolo da una fonte esterna. Una condizione essenziale per rendere efficace pienamente questa funzione è che la parte finale dell'URL deve finire sempre in `/{z}/{x}/{y}.png`. Infatti nel pannello di controllo dello "sfondo personalizzato" è riportato il seguente testo: **Schema supportato: http://{s}.domain.com/{z}/{x}/{y}.png**
 
+Di sotto un esempio di impostazione dello sfondo personalizzato della mappa:
+
+![](https://private-user-images.githubusercontent.com/20488693/296460825-a1c24814-ccb5-4c20-9c5d-5a60336d5736.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUxNTUwNDAsIm5iZiI6MTcwNTE1NDc0MCwicGF0aCI6Ii8yMDQ4ODY5My8yOTY0NjA4MjUtYTFjMjQ4MTQtY2NiNS00YzIwLTljNWQtNWE2MDMzNmQ1NzM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTEzVDE0MDU0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwMjJiMmE3MjhiMGNmZGVlY2EzZmZjZWFmODYxNDZkODA0OWIxN2Y4Y2RlZThiZGMxNjgxMmRmZTQzYmQ1MWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VQ_p4RGUja8eesdYRq-luaeAia5SRhZ0Cy-r9jL5PWg)
+
+
 ## Altri due campi per zoom in e out
 
 Il terzo e quarto campo contengono degli spazi in cui è possibile assegnare un valore numerico alle funzioni di **zoom in** e **zoom out**. Rappresentano i valori per fare zoomare da un massimo di .... ad un minimo di ....
