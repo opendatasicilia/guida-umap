@@ -38,4 +38,4 @@ Il termine "TMS" si riferisce a "Tile Map Service", un protocollo per la distrib
 ## mapwarper.net
 Per georeferenziare un'immagine di una cartografifa  e/o mappa storica e ottenenre una mappa Tiles, consigliamo di usare [https://mapwarper.net/](https://mapwarper.net/) (servizio gratuito) che dopo aver georeferenziato l'immagine permette di esportare anche in **Tiles (Google/OSM scheme)**
 
-![](..//img/sovrap_04.jpg "Esempio Sovrapposizione mappa personalizzata")
+![](..//img/sovrap_04.jpg "mapwarper.net")
