@@ -47,6 +47,7 @@ hide:
 
 [images](https://squidfunk.github.io/mkdocs-material/reference/images/?h=images)
 
+Esempio di sintassi per inserire immagine: ``![](..//img/sovrap_01.jpg "Esempio Sovrapposizione mappa personalizzata")``
 
 ## Status component
 
