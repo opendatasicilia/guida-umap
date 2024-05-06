@@ -66,3 +66,8 @@ Esempio di sintassi per inserire immagine:
 
 <iframe width="100%" height="650" src="https://ondata.github.io/guidaPraticaPubblicazioneCSV/" frameborder="0" allowfullscreen></iframe>
 
+## Testo colorato
+
+L'arancia è [arancione]{style="color:#ffa500"}.
+
+[☝️ Partecipa]{.btn .btn-success}
