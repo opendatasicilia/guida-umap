@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+/* cuore che pulsa */
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite; color: #ff0000;  /* colore */
+}
+
+/* rettangolo logo info stampa pdf */
+#print-site-banner {border-color: #ff0000!important; border-radius: 10px!important; }
+
+/* suggerimento */
+#suggerimento {
+  font-size: 0.6rem !important;
+}
+
+/*Ridimensiona immagine*/
+img.resized10 { width: 10%; height: auto; margin:1px; }
+img.resized15 { width: 15%; height: auto; margin:1px; }
+img.resized20 { width: 20%; height: auto; margin:1px; }
+img.resized25 { width: 24%; height: auto; margin:1px; }
+img.resized33 { width: 32%; height: auto; margin:1px; }
+img.resized35 { width: 33%; height: auto; margin:1px; }
+img.resized50 { width: 48%; height: auto; margin:1px; }
+img.resized75 { width: 75%; height: auto; margin:1px; }	
